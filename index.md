@@ -15,5 +15,5 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 
 ## Contenido del curso
 
-### [Sprint 1: Avaluació, Instal·lació i Configuració de Xarxes i Sistemes Operatius](unidad1/unidad1.md)  
+### [Sprint 1: Avaluació, Instal·lació i Configuració de Xarxes i Sistemes Operatius](sp1/sp1.md)  
 
