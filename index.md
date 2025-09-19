@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Curso de Machine Learning"
+title: "Sistemes Informatics"
 ---
 
-Este repositorio contiene el material del curso de Machine Learning desarrollado por Mireia Consarnau.
+Aquest repositori conte la informació de la unitat1 de la asignatura de sistemes informatics fet per Xavier Sans Alfara
 
 - Índice y enlaces a las unidades del curso.
 - Recursos en formato PDF, vídeos, y Google Colab.
