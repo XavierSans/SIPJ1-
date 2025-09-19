@@ -11,7 +11,7 @@ Aquest repositori conte la informació de la unitat1 de la asignatura de sisteme
 
 ## Licencia
 
-El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
+El contenido está bajo licencia [Creative Commons BY-NC-SA 4.0 ES](LICENSE.md).
 
 ## Contenido del curso
 
