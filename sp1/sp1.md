@@ -17,6 +17,14 @@ Implementació dels requisits:
 
 <img width="723" height="402" alt="image" src="https://github.com/user-attachments/assets/e1a245e4-837e-4dd6-855b-d10c8f9b988d" />
 
+<img width="876" height="677" alt="image" src="https://github.com/user-attachments/assets/74b1e7cc-b3a3-4971-9123-01edcab1905e" />
+
+<img width="876" height="677" alt="image" src="https://github.com/user-attachments/assets/6bcf2cc7-d6bc-4322-9355-2325a9cfd5e9" />
+
+<img width="876" height="677" alt="image" src="https://github.com/user-attachments/assets/44d7283b-1f68-4497-8c21-1a2478b9bccb" />
+
+<img width="876" height="677" alt="image" src="https://github.com/user-attachments/assets/d7bd0429-03f9-4f06-a935-b7bfbccc8f68" />
+
 
 ### Llincenciament
 
