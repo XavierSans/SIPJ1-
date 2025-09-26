@@ -27,7 +27,7 @@ Necesitarem tirar l'opcio algo més per aixi accedir al menu de particions:
 
 <img width="830" height="694" alt="image" src="https://github.com/user-attachments/assets/67073242-7d40-4de9-8270-aa514b215cff" />
 
-Una vegada dins del menu de particions tindrem que agafar el volum del disc que hem creat i reservar l'espai per al que millor ens convingue a nosaltres en el meu cas he fet un total de 4 particions reservant
+Una vegada dins del menú de particions haurem d'agafar el volum del disc que hem creat i reservar l'espai per al qual millor ens convingué a nosaltres en el meu cas he fet un total de 4 particions en les quals he reservat 20 GB, ja que en l'arrel és on es conte el sistema, aplicacions i configuració bàsica i tot i que en menys també ja tenim suficient he ficat una mica més només per si tenim que instal·lar molt, la següent és el boot en 1GB li he ficat tant poc ja que te el kernel i arrencada inclòs en menys pot funcionar ja i amb el /home que en té 20 GB pel fet que conté totes les dades de l'usuari i si hi arriba a haver molt de contingut necessitaré molt d'espai i ja per últim tinc 4GB reservades per a la partició SWAP per tindre una ajuda extra en memòria virtual.
 
 <img width="873" height="631" alt="image" src="https://github.com/user-attachments/assets/76c606b6-026d-4d6f-af0a-42f56f29cca6" />
 
