@@ -25,6 +25,8 @@ Implementació dels requisits:
 
 <img width="830" height="694" alt="image" src="https://github.com/user-attachments/assets/67073242-7d40-4de9-8270-aa514b215cff" />
 
+<img width="873" height="631" alt="image" src="https://github.com/user-attachments/assets/76c606b6-026d-4d6f-af0a-42f56f29cca6" />
+
 <img width="830" height="694" alt="image" src="https://github.com/user-attachments/assets/e45a4422-9c3f-4ab3-a3d7-31fb1b5802c5" />
 
 
