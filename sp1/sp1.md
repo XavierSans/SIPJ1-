@@ -23,7 +23,11 @@ Implementació dels requisits:
 
 <img width="876" height="677" alt="image" src="https://github.com/user-attachments/assets/44d7283b-1f68-4497-8c21-1a2478b9bccb" />
 
+Necesitarem tirar l'opcio
+
 <img width="830" height="694" alt="image" src="https://github.com/user-attachments/assets/67073242-7d40-4de9-8270-aa514b215cff" />
+
+
 
 <img width="873" height="631" alt="image" src="https://github.com/user-attachments/assets/76c606b6-026d-4d6f-af0a-42f56f29cca6" />
 
