@@ -9,6 +9,10 @@ Requisits minims:
 
 <img width="901" height="555" alt="image" src="https://github.com/user-attachments/assets/7e13d384-ef23-428a-80a9-fc3b6b90898b" />
 
+Implementació dels requisits:
+
+<img width="585" height="654" alt="image" src="https://github.com/user-attachments/assets/070cb8d3-d6fa-4223-a14f-035483b141cc" />
+
 
 ### Llincenciament
 
