@@ -13,6 +13,10 @@ Implementació dels requisits:
 
 <img width="585" height="654" alt="image" src="https://github.com/user-attachments/assets/070cb8d3-d6fa-4223-a14f-035483b141cc" />
 
+## Proces d'instal·lació
+
+<img width="723" height="402" alt="image" src="https://github.com/user-attachments/assets/e1a245e4-837e-4dd6-855b-d10c8f9b988d" />
+
 
 ### Llincenciament
 
