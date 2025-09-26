@@ -4,6 +4,12 @@ title: "Sprint 1: Avaluació, Instal·lació i Configuració de Xarxes i Sisteme
 ---
 
 ## Virtualització i insttal·lació del SO Ubuntu
+
+Requisits minims:
+
+<img width="901" height="555" alt="image" src="https://github.com/user-attachments/assets/7e13d384-ef23-428a-80a9-fc3b6b90898b" />
+
+
 ### Llincenciament
 
 Captura de les llicencies que trovem a ubuntu:
