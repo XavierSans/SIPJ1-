@@ -23,11 +23,11 @@ Implementació dels requisits:
 
 <img width="876" height="677" alt="image" src="https://github.com/user-attachments/assets/44d7283b-1f68-4497-8c21-1a2478b9bccb" />
 
-Necesitarem tirar l'opcio
+Necesitarem tirar l'opcio algo més per aixi accedir al menu de particions:
 
 <img width="830" height="694" alt="image" src="https://github.com/user-attachments/assets/67073242-7d40-4de9-8270-aa514b215cff" />
 
-
+Una vegada dins del menu de particions tindrem que agafar el volum del disc que hem creat i reservar l'espai per al que millor ens convingue a nosaltres en el meu cas he fet un total de 4 particions reservant
 
 <img width="873" height="631" alt="image" src="https://github.com/user-attachments/assets/76c606b6-026d-4d6f-af0a-42f56f29cca6" />
 
