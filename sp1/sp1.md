@@ -23,10 +23,6 @@ Implementació dels requisits:
 
 <img width="876" height="677" alt="image" src="https://github.com/user-attachments/assets/44d7283b-1f68-4497-8c21-1a2478b9bccb" />
 
-I ja u tenim instalat
-
-<img width="1280" height="801" alt="image" src="https://github.com/user-attachments/assets/3d8d6114-b3b2-4c0a-a38a-6ed011d33b15" />
-
 Necesitarem tirar l'opcio algo més per aixi accedir al menu de particions:
 
 <img width="830" height="694" alt="image" src="https://github.com/user-attachments/assets/67073242-7d40-4de9-8270-aa514b215cff" />
@@ -37,6 +33,9 @@ Una vegada dins del menú de particions haurem d'agafar el volum del disc que he
 
 <img width="830" height="694" alt="image" src="https://github.com/user-attachments/assets/e45a4422-9c3f-4ab3-a3d7-31fb1b5802c5" />
 
+I ja u tenim instalat
+
+<img width="1280" height="801" alt="image" src="https://github.com/user-attachments/assets/3d8d6114-b3b2-4c0a-a38a-6ed011d33b15" />
 
 ### Llincenciament
 
