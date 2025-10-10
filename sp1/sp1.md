@@ -77,6 +77,42 @@ Per dir-ho d'una forma no hi ha ninguna principal però la més usada de les ja 
 
 <img width="1024" height="763" alt="image" src="https://github.com/user-attachments/assets/2fa89392-7c41-4d88-8cbf-774b1c6cebbc" />
 
+##Instantanies
+
+<img width="699" height="188" alt="image" src="https://github.com/user-attachments/assets/41ac3a56-4a61-49cf-9f14-c797eacd892d" />
+
+<img width="728" height="506" alt="image" src="https://github.com/user-attachments/assets/a21491c4-33d1-4a58-a08b-5743c57eb6cb" />
+
+<img width="564" height="141" alt="image" src="https://github.com/user-attachments/assets/c8caa1c1-0a6c-49c6-9efe-f6b694acf31e" />
+
+<img width="788" height="321" alt="image" src="https://github.com/user-attachments/assets/6435689e-7b09-482c-978a-de56f2519b11" />
+
+<img width="1030" height="411" alt="image" src="https://github.com/user-attachments/assets/6eff05aa-d934-4b83-851e-cf8a8af93dfc" />
+
+<img width="98" height="131" alt="image" src="https://github.com/user-attachments/assets/2dd021c7-9038-4a4c-a822-6563ab56854b" />
+
+<img width="723" height="292" alt="image" src="https://github.com/user-attachments/assets/af30218e-58ef-4efc-ae73-3e3097060410" />
+
+<img width="609" height="677" alt="image" src="https://github.com/user-attachments/assets/d64cd697-4d09-4691-b659-83b78fa0031f" />
+
+<img width="609" height="677" alt="image" src="https://github.com/user-attachments/assets/39ed51e0-0286-47c6-8452-9bdaed935fe8" />
+
+<img width="609" height="677" alt="image" src="https://github.com/user-attachments/assets/df74da24-8e98-4e60-94f7-cf7160fa0221" />
+
+<img width="757" height="701" alt="image" src="https://github.com/user-attachments/assets/30a04525-eaf3-473d-a532-2d1e83db4cd4" />
+
+<img width="808" height="637" alt="image" src="https://github.com/user-attachments/assets/9c693ceb-b49f-4785-a96d-c0aee79da3b6" />
+
+<img width="808" height="637" alt="image" src="https://github.com/user-attachments/assets/9fba7dad-88ef-4389-997b-f706d2c10185" />
+
+<img width="643" height="96" alt="image" src="https://github.com/user-attachments/assets/9d1cc3c4-0764-47a3-b4eb-0cf2d51b6374" />
+
+<img width="515" height="594" alt="image" src="https://github.com/user-attachments/assets/eeda8112-1fd3-4ff4-9cea-ccf0b648531e" />
+
+<img width="1289" height="803" alt="image" src="https://github.com/user-attachments/assets/09c11cab-331e-4854-bd15-7ba9c9e75ffe" />
+
+<img width="1289" height="803" alt="image" src="https://github.com/user-attachments/assets/7dda6fd9-0970-49cc-b29c-74eec31bee23" />
+
 
 ## Particions i punts de restauració
 ## Configuració bàsica de la xarxa
