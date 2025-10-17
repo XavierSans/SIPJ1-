@@ -77,7 +77,8 @@ Per dir-ho d'una forma no hi ha ninguna principal però la més usada de les ja 
 
 <img width="1024" height="763" alt="image" src="https://github.com/user-attachments/assets/2fa89392-7c41-4d88-8cbf-774b1c6cebbc" />
 
-##Instantanies
+## Particions i punts de restauració
+#Instantanies
 
 <img width="699" height="188" alt="image" src="https://github.com/user-attachments/assets/41ac3a56-4a61-49cf-9f14-c797eacd892d" />
 
@@ -111,11 +112,9 @@ Per dir-ho d'una forma no hi ha ninguna principal però la més usada de les ja 
 
 <img width="1289" height="803" alt="image" src="https://github.com/user-attachments/assets/09c11cab-331e-4854-bd15-7ba9c9e75ffe" />
 
-<img width="1289" height="803" alt="image" src="https://github.com/user-attachments/assets/7dda6fd9-0970-49cc-b29c-74eec31bee23" />
+## Configuració bàsica de la xarxa
 
 <img width="586" height="481" alt="image" src="https://github.com/user-attachments/assets/044c8ff0-c4f6-4274-a0c6-8cc3fc22e063" />
-
-## Configuració bàsica de la xarxa
 
 <img width="601" height="362" alt="image" src="https://github.com/user-attachments/assets/030f7b7c-e9d2-4162-960a-c74a9929ecc6" />
 
