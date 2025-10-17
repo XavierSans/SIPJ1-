@@ -113,6 +113,20 @@ Per dir-ho d'una forma no hi ha ninguna principal però la més usada de les ja 
 
 <img width="1289" height="803" alt="image" src="https://github.com/user-attachments/assets/7dda6fd9-0970-49cc-b29c-74eec31bee23" />
 
+<img width="586" height="481" alt="image" src="https://github.com/user-attachments/assets/044c8ff0-c4f6-4274-a0c6-8cc3fc22e063" />
+
+<img width="601" height="362" alt="image" src="https://github.com/user-attachments/assets/030f7b7c-e9d2-4162-960a-c74a9929ecc6" />
+
+<img width="597" height="483" alt="image" src="https://github.com/user-attachments/assets/fd51c27f-18e5-4914-9eff-28e482e2ac4c" />
+
+<img width="742" height="485" alt="image" src="https://github.com/user-attachments/assets/4fd1c3ac-132f-4c54-ba89-37e8913e484f" />
+
+<img width="372" height="47" alt="image" src="https://github.com/user-attachments/assets/4eed1e66-6bb1-4c1a-be8a-5da50862a3e6" />
+
+<img width="746" height="292" alt="image" src="https://github.com/user-attachments/assets/a7817fe0-a910-4e7a-90fa-e54010f9cc4f" />
+
+<img width="746" height="292" alt="image" src="https://github.com/user-attachments/assets/9161332f-85b7-4031-a724-4f2ca3629802" />
+
 
 ## Particions i punts de restauració
 ## Configuració bàsica de la xarxa
