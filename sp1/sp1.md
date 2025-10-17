@@ -115,6 +115,8 @@ Per dir-ho d'una forma no hi ha ninguna principal però la més usada de les ja 
 
 <img width="586" height="481" alt="image" src="https://github.com/user-attachments/assets/044c8ff0-c4f6-4274-a0c6-8cc3fc22e063" />
 
+## Configuració bàsica de la xarxa
+
 <img width="601" height="362" alt="image" src="https://github.com/user-attachments/assets/030f7b7c-e9d2-4162-960a-c74a9929ecc6" />
 
 <img width="597" height="483" alt="image" src="https://github.com/user-attachments/assets/fd51c27f-18e5-4914-9eff-28e482e2ac4c" />
@@ -129,5 +131,4 @@ Per dir-ho d'una forma no hi ha ninguna principal però la més usada de les ja 
 
 
 ## Particions i punts de restauració
-## Configuració bàsica de la xarxa
 ## Comandes genrals i instal·lació d'aplicacions 
