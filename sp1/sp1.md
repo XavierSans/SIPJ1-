@@ -129,5 +129,33 @@ Per dir-ho d'una forma no hi ha ninguna principal però la més usada de les ja 
 <img width="746" height="292" alt="image" src="https://github.com/user-attachments/assets/9161332f-85b7-4031-a724-4f2ca3629802" />
 
 
-## Particions i punts de restauració
 ## Comandes genrals i instal·lació d'aplicacions 
+
+El primer que farem sera la següent comanda que el que fa es el mostrar informacio sobre el paquet com ara si el tenim instalat o les versions que te dispoibles
+
+<img width="713" height="142" alt="image" src="https://github.com/user-attachments/assets/c93eebb7-d068-4921-8199-07427edcb620" />
+
+Tot seguit afegirem el següent repositori per aixi afegir la versio 25 del smpayer
+
+<img width="736" height="363" alt="image" src="https://github.com/user-attachments/assets/5465b234-38d2-40f3-85b8-260c878c2ef9" />
+
+I si torem a fer un apt-cache policy ens surtira la versio que hem afegit
+
+<img width="733" height="212" alt="image" src="https://github.com/user-attachments/assets/d419afa6-9ed8-4fde-b44e-01af970d56bf" />
+
+I ara toca el definir la preferencia de versions el qual u farem en la següen configuracio de document:
+
+<img width="737" height="188" alt="image" src="https://github.com/user-attachments/assets/36d78a1f-f0e1-434a-8c34-456d6fb97556" />
+
+I com es pot apreciar en la imatge la preferencia la te la .25 i es la que esta com a predeterminada 
+
+<img width="738" height="193" alt="image" src="https://github.com/user-attachments/assets/214ca0a4-1ee8-4ae4-a032-762a745d69fe" />
+
+Instalem el smplayer
+
+<img width="737" height="391" alt="image" src="https://github.com/user-attachments/assets/50e00e81-9c0c-4e53-98f4-6fdfa891021d" />
+
+I comprovem que sigui la versio que nosaltres volem
+
+<img width="744" height="73" alt="image" src="https://github.com/user-attachments/assets/b7e0ef91-c55b-478e-a00f-b028169fdeac" />
+
