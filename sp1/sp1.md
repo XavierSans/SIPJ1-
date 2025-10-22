@@ -67,15 +67,13 @@ Per dir-ho d'una forma no hi ha ninguna principal però la més usada de les ja 
 
 <img width="1028" height="774" alt="image" src="https://github.com/user-attachments/assets/613c5eb2-62e3-42f8-bf5e-899e6227c1a9" />
 
-<img width="724" height="395" alt="image" src="https://github.com/user-attachments/assets/b1293120-3c3f-4c61-bfd5-90c4484599ad" />
-
 <img width="650" height="479" alt="image" src="https://github.com/user-attachments/assets/d57eaf06-8177-47b0-adda-7686b70cbfd8" />
+
+<img width="724" height="395" alt="image" src="https://github.com/user-attachments/assets/b1293120-3c3f-4c61-bfd5-90c4484599ad" />
 
 <img width="724" height="395" alt="image" src="https://github.com/user-attachments/assets/1a616199-30cc-4274-9bf7-160b0b570e86" />
 
 <img width="733" height="288" alt="image" src="https://github.com/user-attachments/assets/1aa8c9d5-9304-49e9-addb-aa2b20188a35" />
-
-<img width="650" height="479" alt="image" src="https://github.com/user-attachments/assets/d57eaf06-8177-47b0-adda-7686b70cbfd8" />
 
 <img width="1024" height="763" alt="image" src="https://github.com/user-attachments/assets/2fa89392-7c41-4d88-8cbf-774b1c6cebbc" />
 
