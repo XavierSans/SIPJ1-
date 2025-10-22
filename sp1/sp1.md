@@ -65,6 +65,8 @@ Per dir-ho d'una forma no hi ha ninguna principal però la més usada de les ja 
 
 <img width="643" height="482" alt="image" src="https://github.com/user-attachments/assets/9fffcca9-0353-4e83-bfc5-ef92ff3849bc" />
 
+<img width="650" height="479" alt="image" src="https://github.com/user-attachments/assets/d57eaf06-8177-47b0-adda-7686b70cbfd8" />
+
 <img width="1028" height="774" alt="image" src="https://github.com/user-attachments/assets/613c5eb2-62e3-42f8-bf5e-899e6227c1a9" />
 
 <img width="650" height="479" alt="image" src="https://github.com/user-attachments/assets/d57eaf06-8177-47b0-adda-7686b70cbfd8" />
