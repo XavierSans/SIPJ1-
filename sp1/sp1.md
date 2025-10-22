@@ -69,6 +69,8 @@ Per dir-ho d'una forma no hi ha ninguna principal però la més usada de les ja 
 
 <img width="724" height="395" alt="image" src="https://github.com/user-attachments/assets/b1293120-3c3f-4c61-bfd5-90c4484599ad" />
 
+<img width="650" height="479" alt="image" src="https://github.com/user-attachments/assets/d57eaf06-8177-47b0-adda-7686b70cbfd8" />
+
 <img width="724" height="395" alt="image" src="https://github.com/user-attachments/assets/1a616199-30cc-4274-9bf7-160b0b570e86" />
 
 <img width="733" height="288" alt="image" src="https://github.com/user-attachments/assets/1aa8c9d5-9304-49e9-addb-aa2b20188a35" />
@@ -103,8 +105,6 @@ Per dir-ho d'una forma no hi ha ninguna principal però la més usada de les ja 
 <img width="757" height="701" alt="image" src="https://github.com/user-attachments/assets/30a04525-eaf3-473d-a532-2d1e83db4cd4" />
 
 <img width="643" height="96" alt="image" src="https://github.com/user-attachments/assets/9d1cc3c4-0764-47a3-b4eb-0cf2d51b6374" />
-
-<img width="515" height="594" alt="image" src="https://github.com/user-attachments/assets/eeda8112-1fd3-4ff4-9cea-ccf0b648531e" />
 
 <img width="808" height="637" alt="image" src="https://github.com/user-attachments/assets/9c693ceb-b49f-4785-a96d-c0aee79da3b6" />
 
