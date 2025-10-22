@@ -102,11 +102,11 @@ Per dir-ho d'una forma no hi ha ninguna principal però la més usada de les ja 
 
 <img width="757" height="701" alt="image" src="https://github.com/user-attachments/assets/30a04525-eaf3-473d-a532-2d1e83db4cd4" />
 
+<img width="643" height="96" alt="image" src="https://github.com/user-attachments/assets/9d1cc3c4-0764-47a3-b4eb-0cf2d51b6374" />
+
 <img width="808" height="637" alt="image" src="https://github.com/user-attachments/assets/9c693ceb-b49f-4785-a96d-c0aee79da3b6" />
 
 <img width="808" height="637" alt="image" src="https://github.com/user-attachments/assets/9fba7dad-88ef-4389-997b-f706d2c10185" />
-
-<img width="643" height="96" alt="image" src="https://github.com/user-attachments/assets/9d1cc3c4-0764-47a3-b4eb-0cf2d51b6374" />
 
 <img width="515" height="594" alt="image" src="https://github.com/user-attachments/assets/eeda8112-1fd3-4ff4-9cea-ccf0b648531e" />
 
