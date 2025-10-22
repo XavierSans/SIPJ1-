@@ -108,8 +108,6 @@ Per dir-ho d'una forma no hi ha ninguna principal però la més usada de les ja 
 
 <img width="808" height="637" alt="image" src="https://github.com/user-attachments/assets/9c693ceb-b49f-4785-a96d-c0aee79da3b6" />
 
-<img width="808" height="637" alt="image" src="https://github.com/user-attachments/assets/9fba7dad-88ef-4389-997b-f706d2c10185" />
-
 <img width="515" height="594" alt="image" src="https://github.com/user-attachments/assets/eeda8112-1fd3-4ff4-9cea-ccf0b648531e" />
 
 <img width="1289" height="803" alt="image" src="https://github.com/user-attachments/assets/09c11cab-331e-4854-bd15-7ba9c9e75ffe" />
