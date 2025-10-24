@@ -99,48 +99,89 @@ Com es pot apreciar ja tenim el grub per a triar entre windows o ubuntu
 ## Particions i punts de restauració
 #Instantanies
 
+Antes de fer les particions afegirem un disc dur de 25GB on una vegada ja el tenim usant el fdisk entrarem a la configuració del disk on ficarem n per a fer una partició i w per a sortir de la configuració
 
 <img width="728" height="506" alt="image" src="https://github.com/user-attachments/assets/a21491c4-33d1-4a58-a08b-5743c57eb6cb" />
 
+Aquí com es pot observar a la imatge ja tenim feta la partició
+
 <img width="564" height="141" alt="image" src="https://github.com/user-attachments/assets/c8caa1c1-0a6c-49c6-9efe-f6b694acf31e" />
+
+Aquí formatearem la partició de tal forma que estigui en ext4
 
 <img width="788" height="321" alt="image" src="https://github.com/user-attachments/assets/6435689e-7b09-482c-978a-de56f2519b11" />
 
+Ara tocara instalar el timeshift 
+
 <img width="1030" height="411" alt="image" src="https://github.com/user-attachments/assets/6eff05aa-d934-4b83-851e-cf8a8af93dfc" />
+
+On com es pot observar ja el tinc 
 
 <img width="98" height="131" alt="image" src="https://github.com/user-attachments/assets/2dd021c7-9038-4a4c-a822-6563ab56854b" />
 
+Ara crearem una carpeta i un arxiu anomenat HOLA
+
 <img width="723" height="292" alt="image" src="https://github.com/user-attachments/assets/af30218e-58ef-4efc-ae73-3e3097060410" />
+
+Entrarem al timeshift on començarem amb la configuració
 
 <img width="609" height="677" alt="image" src="https://github.com/user-attachments/assets/d64cd697-4d09-4691-b659-83b78fa0031f" />
 
+Seleccionarem el disc dur que hem afegit
+
 <img width="609" height="677" alt="image" src="https://github.com/user-attachments/assets/39ed51e0-0286-47c6-8452-9bdaed935fe8" />
+
+I seleccionarem cada quan volem que ens faci les còpies
 
 <img width="609" height="677" alt="image" src="https://github.com/user-attachments/assets/df74da24-8e98-4e60-94f7-cf7160fa0221" />
 
+Aqui seleccionarem que ens copie tota la carpeta home
+
 <img width="757" height="701" alt="image" src="https://github.com/user-attachments/assets/30a04525-eaf3-473d-a532-2d1e83db4cd4" />
+
+I eliminarem una carpeta
 
 <img width="643" height="96" alt="image" src="https://github.com/user-attachments/assets/9d1cc3c4-0764-47a3-b4eb-0cf2d51b6374" />
 
+I per a crear la copia entrarem al menu que es mostra a la imatge i clicarem a create
+
 <img width="808" height="637" alt="image" src="https://github.com/user-attachments/assets/9c693ceb-b49f-4785-a96d-c0aee79da3b6" />
 
+Aquí com es pot observar estan els arxius que es restaurarant
+
 <img width="515" height="594" alt="image" src="https://github.com/user-attachments/assets/eeda8112-1fd3-4ff4-9cea-ccf0b648531e" />
+
+I una vegada iniciada la restauració ens tindria que sortir un menú així significant que s'estan restaurant els arxius que s’han mostrat
 
 <img width="1289" height="803" alt="image" src="https://github.com/user-attachments/assets/09c11cab-331e-4854-bd15-7ba9c9e75ffe" />
 
 ## Configuració bàsica de la xarxa
 
+Com a configuració basica de la xarxa començem ficant una IP manual a l’igual que un DNS
+
 <img width="586" height="481" alt="image" src="https://github.com/user-attachments/assets/044c8ff0-c4f6-4274-a0c6-8cc3fc22e063" />
+
+I comprovem que tinguem internet fent un ping
 
 <img width="601" height="362" alt="image" src="https://github.com/user-attachments/assets/030f7b7c-e9d2-4162-960a-c74a9929ecc6" />
 
+Una vegada fet tornarem a la configuració base
+
 <img width="597" height="483" alt="image" src="https://github.com/user-attachments/assets/fd51c27f-18e5-4914-9eff-28e482e2ac4c" />
+
+A continuació anirem al document del netplan i el editarem de tal forma que quedi així lo qual és bàsicament es el mateix que hem fet antes però a partir de terminal 
 
 <img width="742" height="485" alt="image" src="https://github.com/user-attachments/assets/4fd1c3ac-132f-4c54-ba89-37e8913e484f" />
 
+Per aplicar els canvis usem sudo netplan apply
+
 <img width="372" height="47" alt="image" src="https://github.com/user-attachments/assets/4eed1e66-6bb1-4c1a-be8a-5da50862a3e6" />
 
+Si fem un ip a observarem que si que s’han aplicat els canvis
+
 <img width="746" height="292" alt="image" src="https://github.com/user-attachments/assets/a7817fe0-a910-4e7a-90fa-e54010f9cc4f" />
+
+I ja per últim farem un ping per comprovar si tenim connexió
 
 <img width="746" height="292" alt="image" src="https://github.com/user-attachments/assets/9161332f-85b7-4031-a724-4f2ca3629802" />
 
