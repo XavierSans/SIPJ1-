@@ -59,28 +59,46 @@ Per dir-ho d'una forma no hi ha ninguna principal però la més usada de les ja 
 
 ## Instal·lacions duals i Gestors d'arrencada
 
+Antes de instal·lar el windows el primer que tindrem que fer es habilitar l’opció de l’EFI 
+
 <img width="876" height="604" alt="image" src="https://github.com/user-attachments/assets/6499d5a0-28d8-44c0-b7be-d16f3ab66a89" />
+
+Tot seguit anirem a l’apartat d'emmagatzemament i afegirem la ISO de windows 10
 
 <img width="671" height="505" alt="image" src="https://github.com/user-attachments/assets/909e0f9f-e4c1-461e-a0f2-a243c5b2b812" />
 
+Una vegada iniciem la maquina anirem a la BIOS i iniciarem manualment la iso del windows
+
+En la instal·lació de windows l'única cosa que tindrem que fer es agarrar l’espai buit que vam deixar de costat en les particions de ubuntu i instalar el windows allí
+
 <img width="650" height="479" alt="image" src="https://github.com/user-attachments/assets/d57eaf06-8177-47b0-adda-7686b70cbfd8" />
+
+I ja tindrem el windows
 
 <img width="643" height="482" alt="image" src="https://github.com/user-attachments/assets/9fffcca9-0353-4e83-bfc5-ef92ff3849bc" />
 
+Per a tornar al ubuntu farem el mateix que en windows pero aquesta vegada entrant on fica ubuntu. Una vegada dins el primer que farem sera el actualitzar el grub
+
 <img width="1028" height="774" alt="image" src="https://github.com/user-attachments/assets/613c5eb2-62e3-42f8-bf5e-899e6227c1a9" />
+
 
 <img width="724" height="395" alt="image" src="https://github.com/user-attachments/assets/b1293120-3c3f-4c61-bfd5-90c4484599ad" />
 
+Després anirem a la ruta /etc/default/grub i editarem l’arxiu de tal forma que quedi això, on el que fem és bàsicament es el augmentar el temps del grub antes de entrar a un SO
+
 <img width="724" height="395" alt="image" src="https://github.com/user-attachments/assets/1a616199-30cc-4274-9bf7-160b0b570e86" />
 
+Ja per últim aplicarem la configuració del que ja hem fet i reiniciarem.
+
 <img width="733" height="288" alt="image" src="https://github.com/user-attachments/assets/1aa8c9d5-9304-49e9-addb-aa2b20188a35" />
+
+Com es pot apreciar ja tenim el grub per a triar entre windows o ubuntu
 
 <img width="1024" height="763" alt="image" src="https://github.com/user-attachments/assets/2fa89392-7c41-4d88-8cbf-774b1c6cebbc" />
 
 ## Particions i punts de restauració
 #Instantanies
 
-<img width="699" height="188" alt="image" src="https://github.com/user-attachments/assets/41ac3a56-4a61-49cf-9f14-c797eacd892d" />
 
 <img width="728" height="506" alt="image" src="https://github.com/user-attachments/assets/a21491c4-33d1-4a58-a08b-5743c57eb6cb" />
 
