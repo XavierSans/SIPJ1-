@@ -69,18 +69,18 @@ Tot seguit anirem a l’apartat d'emmagatzemament i afegirem la ISO de windows 1
 
 Una vegada iniciem la maquina anirem a la BIOS i iniciarem manualment la iso del windows
 
-En la instal·lació de windows l'única cosa que tindrem que fer es agarrar l’espai buit que vam deixar de costat en les particions de ubuntu i instalar el windows allí
 
 <img width="650" height="479" alt="image" src="https://github.com/user-attachments/assets/d57eaf06-8177-47b0-adda-7686b70cbfd8" />
 
-I ja tindrem el windows
+En la instal·lació de windows l'única cosa que tindrem que fer es agarrar l’espai buit que vam deixar de costat en les particions de ubuntu i instalar el windows allí
 
 <img width="643" height="482" alt="image" src="https://github.com/user-attachments/assets/9fffcca9-0353-4e83-bfc5-ef92ff3849bc" />
 
-Per a tornar al ubuntu farem el mateix que en windows pero aquesta vegada entrant on fica ubuntu. Una vegada dins el primer que farem sera el actualitzar el grub
+I ja tindrem el windows
 
 <img width="1028" height="774" alt="image" src="https://github.com/user-attachments/assets/613c5eb2-62e3-42f8-bf5e-899e6227c1a9" />
 
+Per a tornar al ubuntu farem el mateix que en windows pero aquesta vegada entrant on fica ubuntu. Una vegada dins el primer que farem sera el actualitzar el grub
 
 <img width="724" height="395" alt="image" src="https://github.com/user-attachments/assets/b1293120-3c3f-4c61-bfd5-90c4484599ad" />
 
