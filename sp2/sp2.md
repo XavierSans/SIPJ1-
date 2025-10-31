@@ -1,9 +1,15 @@
 ---
 layout: default
-title: "Sprint 1: Avaluació, Instal·lació i Configuració de Xarxes i Sistemes Operatius"
+title: "Sprint 2: Gestió de la Informació del Sistema i Administració"
 ---
 
-## Sprint 2: Gestió de la Informació del Sistema i Administració
+## Sistemes de fitxers i particions
 
-#Sistemes de fitxers i particions
+· Mida del sector
+
+## Còpies de seguretat i automització de tasques
+
+## Gestió d'usuaris, grups i permisos
+
+## Gestió de procesos
 
