@@ -5,7 +5,9 @@ title: "Sprint 2: Gestió de la Informació del Sistema i Administració"
 
 ## Sistemes de fitxers i particions
 
-###Mida del sector
+-- Mida del sector
+
+Un sector es la unitat minima fisica on es guarden les dades al disc
 
 ###Mida del block
 
