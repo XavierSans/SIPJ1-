@@ -5,19 +5,19 @@ title: "Sprint 2: Gestió de la Informació del Sistema i Administració"
 
 ## Sistemes de fitxers i particions
 
-#Mida del sector
+###Mida del sector
 
-#Mida del block
+###Mida del block
 
-#Fragmentació interna
+###Fragmentació interna
 
-#Fragmentació externa
+###Fragmentació externa
 
-#Tipus de sistemes de fitxers
+###Tipus de sistemes de fitxers
 
-#Tipus de formateig
+###Tipus de formateig
 
-#Particions/volums
+###Particions/volums
 
 - GPARTED
 
