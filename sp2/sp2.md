@@ -9,7 +9,7 @@ Mida del sector
 
 Un sector es la unitat minima fisica on es guarden les dades al disc. Aquesta mida no la podem modificar
 
--Mida del block
+- Mida del block
 
 Un block es la unitat minima logica on es guarden les dades a nivell del sistema operatiu. Aquesta mida es de 4096 bytes on aquesta mida si que pot ser modificada al moment de formatejar la partició
 
