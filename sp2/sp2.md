@@ -82,11 +82,9 @@ Una particio es una separació del disc a nivell fisic, mentres que un volum es 
 
 <img width="721" height="272" alt="imagen" src="https://github.com/user-attachments/assets/07debe5c-df52-4fca-8c44-637eba412bc4" />
 
-<img width="608" height="371" alt="imagen" src="https://github.com/user-attachments/assets/99d9351b-ddd3-4557-80d6-20af5ad0717c" />
-
 <img width="587" height="80" alt="imagen" src="https://github.com/user-attachments/assets/d6efc12b-29c7-4241-b004-4de77176cfb2" />
 
-<img width="425" height="261" alt="imagen" src="https://github.com/user-attachments/assets/f1eed315-c514-4e5b-8483-8174a53eda31" />
+<img width="608" height="371" alt="imagen" src="https://github.com/user-attachments/assets/80413fa7-54cf-42b7-b582-af69451f23ab" />
 
 <img width="697" height="157" alt="imagen" src="https://github.com/user-attachments/assets/4d3d08bc-6a85-416b-b631-17a4170db071" />
 
