@@ -97,5 +97,36 @@ Una particio es una separació del disc a nivell fisic, mentres que un volum es 
 
 ## Gestió d'usuaris, grups i permisos
 
+En el fitxer passwd estan tots els usuaris del sistema
+
+<img width="734" height="444" alt="image" src="https://github.com/user-attachments/assets/1bd4aa7b-7242-49aa-ade7-50ce1de09060" />
+
+En el fitxer group estan tots els grups del sistema
+
+<img width="734" height="444" alt="image" src="https://github.com/user-attachments/assets/4095a98e-c217-443e-ab02-733655b5ec06" />
+
+En el fitxer shadow trovarem totes les contrasenyes encriptades junt a la seva data de caducitat
+
+<img width="734" height="444" alt="image" src="https://github.com/user-attachments/assets/a5f63145-6137-4ca7-8c83-fa2247eac5ec" />
+
+Al fitxer gshadow es veuen els administrador de cada grup
+
+<img width="734" height="444" alt="image" src="https://github.com/user-attachments/assets/a2dec8b4-f3bd-473d-b91f-10c5a76da1dc" />
+
+Per a crear un usuari usem adduser i el nom de l'usuari que volem crear 
+
+<img width="722" height="343" alt="image" src="https://github.com/user-attachments/assets/c9001a8b-b850-4c3c-8a3f-479c81c0be42" />
+
+Fins que no inicem sessio amb l'usuari de forma grafica no es crearan les carpetes corresponents
+
+<img width="736" height="70" alt="image" src="https://github.com/user-attachments/assets/251ef989-6aa4-422d-8562-b005463b26b9" />
+
+<img width="542" height="130" alt="image" src="https://github.com/user-attachments/assets/30cda419-99f4-4e52-90c2-54a6ecc12db8" />
+
+<img width="617" height="314" alt="image" src="https://github.com/user-attachments/assets/b60d335b-471b-48f3-9084-ebc5bd8e27dc" />
+
+<img width="1281" height="800" alt="image" src="https://github.com/user-attachments/assets/15d2b41e-d232-4524-bb32-c944c87497b6" />
+
+
 ## Gestió de procesos
 
