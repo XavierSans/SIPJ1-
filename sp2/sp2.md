@@ -127,6 +127,71 @@ Fins que no inicem sessio amb l'usuari de forma grafica no es crearan les carpet
 
 <img width="1281" height="800" alt="image" src="https://github.com/user-attachments/assets/15d2b41e-d232-4524-bb32-c944c87497b6" />
 
+<img width="658" height="179" alt="imagen" src="https://github.com/user-attachments/assets/86301b6e-4e0f-411f-b514-3a4dcf58d460" />
+
+<img width="604" height="144" alt="imagen" src="https://github.com/user-attachments/assets/3ae21e83-b949-4c6d-8bd5-13cff0b4e6c6" />
+
+Per a poder bloquejar un usuari del sistema sense borrar-lo usarem el usermod -L  
+
+<img width="734" height="161" alt="imagen" src="https://github.com/user-attachments/assets/62eed601-6315-40b4-ac87-02d68d9edd64" />
+
+Per a poder desbloqueijar usarem la mateixa comanda pero en aquest cas en comte de -L sera -U
+
+<img width="751" height="98" alt="imagen" src="https://github.com/user-attachments/assets/6d58eb03-4fbd-4abc-a5fd-67004dff31ee" />
+
+<img width="512" height="231" alt="imagen" src="https://github.com/user-attachments/assets/719dd854-b73a-4a7d-8d1e-381fdc9e2d1d" />
+
+Tenim moltes formes d'afegir usuaris a un grup pero aquestes son les 3 que hem usat
+
+<img width="535" height="184" alt="imagen" src="https://github.com/user-attachments/assets/0091cc5f-c7a3-4c4c-9c8d-bdbde40ee49a" />
+
+Aquestes son dos maneres de borrar usuaris de un grup en especific
+
+<img width="508" height="166" alt="imagen" src="https://github.com/user-attachments/assets/45ba0ea4-2241-4a4a-841f-4f5fd29022e6" />
+
+Per natros canviar el grup principal d'un usuari o podem fer amb el usemod -g
+
+<img width="508" height="166" alt="imagen" src="https://github.com/user-attachments/assets/06ff44c1-6ee2-435d-b6fd-f560e8e756d2" />
+
+Per mirar de forma facil els grups d'un usuari podem usar el groups nom d'usuari
+
+<img width="358" height="58" alt="imagen" src="https://github.com/user-attachments/assets/42948a61-4185-4bb9-8156-f0395a93a4e6" />
+
+Per a borrar un grup usarem groupdel pero si aquest grup es el grup principal d'algun usuari tindrem que canviar els permisos per a que la carpeta principal sigui una altra
+
+<img width="536" height="103" alt="imagen" src="https://github.com/user-attachments/assets/39882e49-195e-433f-a7ee-a58d205ad94d" />
+
+Els arxius ocults son aquells que começen en un punt. I aquest fitxers estan 
+
+<img width="640" height="399" alt="imagen" src="https://github.com/user-attachments/assets/8f3b19ee-3a41-423e-a419-e16e609feaea" />
+
+
+<img width="588" height="220" alt="imagen" src="https://github.com/user-attachments/assets/e2fdc33c-3d6f-4bb8-9c4c-8da464645f84" />
+
+Al editar aquest arxiu podem alterar el comprotament de la comanda adduser
+
+<img width="736" height="440" alt="imagen" src="https://github.com/user-attachments/assets/5112e311-c15a-4b07-8979-af11407de29a" />
+
+Aquest arxiu actua tant quan usem adduser com quan usem el useradd on un canvi que podem fer es el canviar el minim de dies de la contrasenya com els dies que tarda en avisrnos
+
+<img width="736" height="440" alt="imagen" src="https://github.com/user-attachments/assets/5451f52b-c19a-4a78-9232-2265919bfc2d" />
+
+Per a modificar unicament el comportament de la comanda de useradd entrarem al següent arxiu on el canvi que farem sera el canvi de /bin/sh a /bin/bash
+
+<img width="736" height="440" alt="imagen" src="https://github.com/user-attachments/assets/c1a1cc99-1952-4ef0-8d65-7937153671ff" />
+
+Com a comprovacions de els canvis que hem fet que afecta a la comanda adduser tot a funcionat
+
+<img width="733" height="216" alt="imagen" src="https://github.com/user-attachments/assets/9d8bb60c-c94b-4ba6-a02d-060bdb940556" />
+
+I com a comprovacions des canvis de la comanda useradd tambe a funcionat tot 
+
+<img width="730" height="120" alt="imagen" src="https://github.com/user-attachments/assets/1f5f020a-51fe-4b05-82ce-ce7317bb51db" />
+
+    --Canvis personals de adduser
+
+    
+    --Canvis personals de useradd
 
 ## Gestió de procesos
 
