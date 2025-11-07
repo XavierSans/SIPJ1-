@@ -188,10 +188,10 @@ I com a comprovacions des canvis de la comanda useradd tambe a funcionat tot
 
 <img width="730" height="120" alt="imagen" src="https://github.com/user-attachments/assets/1f5f020a-51fe-4b05-82ce-ce7317bb51db" />
 
-    --Canvis personals de adduser
+  --Canvis personals de adduser
 
     
-    --Canvis personals de useradd
+  --Canvis personals de useradd
 
 ## Gestió de procesos
 
