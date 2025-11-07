@@ -194,6 +194,9 @@ I com a comprovacions des canvis de la comanda useradd tambe a funcionat tot
 
   <img width="1005" height="604" alt="imagen" src="https://github.com/user-attachments/assets/277f3741-44cd-4f30-bf89-13eed93bda7f" />
 
+  <img width="452" height="41" alt="imagen" src="https://github.com/user-attachments/assets/541adaa3-44b4-4609-bcae-b5936016149d" />
+
+
 
 ## Gestió de procesos
 
