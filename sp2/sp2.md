@@ -192,5 +192,8 @@ I com a comprovacions des canvis de la comanda useradd tambe a funcionat tot
     
   - Canvis personals de useradd
 
+  <img width="1005" height="604" alt="imagen" src="https://github.com/user-attachments/assets/277f3741-44cd-4f30-bf89-13eed93bda7f" />
+
+
 ## Gestió de procesos
 
