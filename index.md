@@ -17,5 +17,5 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 4.0 ES](LICENSE.md).
 
 ### [Sprint 1: Avaluació, Instal·lació i Configuració de Xarxes i Sistemes Operatius](sp1/sp1.md)  
 
-### [Sprint 1: Avaluació, Instal·lació i Configuració de Xarxes i Sistemes Operatius](sp2/sp2.md)  
+### [Sprint 2: Gestió de la Informació del Sistema i Administració](sp2/sp2.md)  
 
