@@ -220,7 +220,7 @@ I com a comprovacions des canvis de la comanda useradd tambe a funcionat tot
 
 Un canvi que faig es el que al crear un usuari automaticament el fique als grups que es mostren a continuacio
 
-<img width="324" height="48" alt="imagen" src="https://github.com/user-attachments/assets/78d1353f-d891-4b6f-a306-44a834219323" />
+<img width="343" height="72" alt="imagen" src="https://github.com/user-attachments/assets/8109fcc6-f328-4f59-b14d-56b7a9d30533" />
 
 Altres canvis es el canviar el rang de GID i UID 
 
@@ -238,6 +238,10 @@ Ara el que queda es comprovar que funcione tot
 
 <img width="351" height="30" alt="imagen" src="https://github.com/user-attachments/assets/c5d026be-b6d3-4efa-ace4-ec03e7d61629" />
 
+Al moment de crear l'usuari ens surtira el que l'usuari s'esta afegint als grups tot i que no em trova dos dels 3 grups
+
+<img width="420" height="78" alt="imagen" src="https://github.com/user-attachments/assets/bfc991ae-88d2-411b-9df1-28e9a5b5b2d8" />
+
 Com a primeres coses que podem observar al iniciar sessio es que al moment d'entrar si que apareixen els dos missatges que he ficat al .profile
 
 <img width="717" height="691" alt="imagen" src="https://github.com/user-attachments/assets/b63dbb8d-0c75-45a8-ab71-d7d0147a3a8f" />
@@ -246,7 +250,11 @@ Tambe si fem ll es com si usesem ls -la
 
 <img width="599" height="203" alt="imagen" src="https://github.com/user-attachments/assets/67af1872-b1bc-4ad0-a8ee-7811e20e3217" />
 
-    
+Si anem a l'arxiu group podrem veure com si que esta dins del rang que li he asignat 
+
+<img width="185" height="27" alt="imagen" src="https://github.com/user-attachments/assets/f4781099-ed2a-48e6-a162-4fff4e8b6074" />
+
+
   - Canvis personals de useradd
 
 Dins del useradd per a començar el que he fet a sigut el que es cree el repositori home automaticament i no el tingues que crear tu manualment
