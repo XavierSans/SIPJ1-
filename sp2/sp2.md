@@ -139,13 +139,23 @@ Fins que no inicem sessio amb l'usuari de forma grafica no es crearan les carpet
 
 <img width="736" height="70" alt="image" src="https://github.com/user-attachments/assets/251ef989-6aa4-422d-8562-b005463b26b9" />
 
+Ara el que farem sera crear un usuari amb useradd on tindrem que ficar la contrasenya amb passwd “nom usuari” i el canviar el sistema de la terminal 
+
 <img width="542" height="130" alt="image" src="https://github.com/user-attachments/assets/30cda419-99f4-4e52-90c2-54a6ecc12db8" />
+
+També crearem la carpeta de l’usuari on li assignarem els permisos corresponents
 
 <img width="617" height="314" alt="image" src="https://github.com/user-attachments/assets/b60d335b-471b-48f3-9084-ebc5bd8e27dc" />
 
+I si intentem iniciar gràficament com es pot observar si que podem
+
 <img width="1281" height="800" alt="image" src="https://github.com/user-attachments/assets/15d2b41e-d232-4524-bb32-c944c87497b6" />
 
+Si borrem un usuari amb deluser la única cosa que fa es el borrar la forma de iniciar graficament mentres que es manteneixen la carpeta de l’usuari amb tota la informació
+
 <img width="658" height="179" alt="imagen" src="https://github.com/user-attachments/assets/86301b6e-4e0f-411f-b514-3a4dcf58d460" />
+
+Mentres que si el borrem amb userdel -r  el que fa es el esborrar tot incluit carpeta
 
 <img width="604" height="144" alt="imagen" src="https://github.com/user-attachments/assets/3ae21e83-b949-4c6d-8bd5-13cff0b4e6c6" />
 
@@ -213,8 +223,6 @@ I com a comprovacions des canvis de la comanda useradd tambe a funcionat tot
   <img width="1005" height="604" alt="imagen" src="https://github.com/user-attachments/assets/277f3741-44cd-4f30-bf89-13eed93bda7f" />
 
   <img width="452" height="41" alt="imagen" src="https://github.com/user-attachments/assets/541adaa3-44b4-4609-bcae-b5936016149d" />
-
-
 
 ## Gestió de procesos
 
