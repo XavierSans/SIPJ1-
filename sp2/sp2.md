@@ -273,11 +273,5 @@ I si inciem sessio amb l'usuari podem veure el com si qeu tenim carpeta home
 
 <img width="265" height="43" alt="imagen" src="https://github.com/user-attachments/assets/8a02816e-aa62-49f6-a6a6-8a10a2ec483f" />
 
-
-
-  <img width="1005" height="604" alt="imagen" src="https://github.com/user-attachments/assets/277f3741-44cd-4f30-bf89-13eed93bda7f" />
-
-  <img width="452" height="41" alt="imagen" src="https://github.com/user-attachments/assets/541adaa3-44b4-4609-bcae-b5936016149d" />
-
 ## Gestió de procesos
 
