@@ -68,27 +68,45 @@ Una particio es una separació del disc a nivell fisic, mentres que un volum es 
 
   - GPARTED
 
+Primer que tot instalem la eina gparted desde terminal. GParted és un programa molt senzill i visual per gestionar particions de disc.
+
 <img width="742" height="347" alt="imagen" src="https://github.com/user-attachments/assets/f8d2ac24-f372-4d18-b8e8-bd71c05f6b1c" />
+
+Una vegada instalada el que farem sera iniciarla i una vegada dins podrem observar el contingut de la app
 
 <img width="783" height="273" alt="imagen" src="https://github.com/user-attachments/assets/22007975-65ee-4b7b-92fa-5cd774777101" />
 
   - comandes
 
+Primer que tot mirarem el com al disc que em afegit de 10 GB no tenim ninguna partició així que tocara crear una
+
 <img width="729" height="112" alt="imagen" src="https://github.com/user-attachments/assets/c4f50407-dcec-4335-bf93-0e013a23d3b4" />
+
+Aquí com es pot observar després de seleccionar el disc crearem una partició
 
 <img width="735" height="441" alt="imagen" src="https://github.com/user-attachments/assets/f439395b-1fb2-42a2-920e-5c312e1bc629" />
 
+I si tornem al menu anterior podrem observar el com si que tenim ja feta la partició
+
 <img width="741" height="214" alt="imagen" src="https://github.com/user-attachments/assets/3ccad7df-d911-46bc-95e9-fb7c2f0508e3" />
+
+Aquí el que farem será el crear un sistema de fitxers ext4 a la partició recent creada
 
 <img width="721" height="272" alt="imagen" src="https://github.com/user-attachments/assets/07debe5c-df52-4fca-8c44-637eba412bc4" />
 
+Següent mirem si s’ha aplicat
+
 <img width="587" height="80" alt="imagen" src="https://github.com/user-attachments/assets/d6efc12b-29c7-4241-b004-4de77176cfb2" />
+
+Ara el que farem sera el crear un directori i un arxiu els quals els posarem dins de la partició recent feta on com es pot observar surt com a lost+found on si reiniciem ja no ens apareixerà ja que no tenim montat l'accés a la partició
 
 <img width="608" height="371" alt="imagen" src="https://github.com/user-attachments/assets/80413fa7-54cf-42b7-b582-af69451f23ab" />
 
-<img width="697" height="157" alt="imagen" src="https://github.com/user-attachments/assets/4d3d08bc-6a85-416b-b631-17a4170db071" />
+On per a fer-ho anirem a l’arxiu en /e	tc/fstab i afegirem la ultima linea que es mostrar que el que fa es que es monte l’acces cada vegada que entrem al ubuntu
 
 <img width="743" height="354" alt="imagen" src="https://github.com/user-attachments/assets/589e1ca0-48b0-4913-b06c-1a0880ea4320" />
+
+I com es pot observar funciona
 
 <img width="740" height="105" alt="imagen" src="https://github.com/user-attachments/assets/f396b665-4669-4512-a41c-a4a3ffaf75a3" />
 
