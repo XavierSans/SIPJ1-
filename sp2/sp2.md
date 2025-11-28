@@ -265,6 +265,15 @@ Tambe he ficat el que com a shell use el /bin/bash
 
 <img width="702" height="132" alt="imagen" src="https://github.com/user-attachments/assets/a99e632d-7189-4841-8020-6eaccad3c223" />
 
+Ara toca el comprovar si s'han aplicat els canvis
+
+<img width="372" height="28" alt="imagen" src="https://github.com/user-attachments/assets/4162992d-1629-4db7-981a-6934fc1caf17" />
+
+I si inciem sessio amb l'usuari podem veure el com si qeu tenim carpeta home
+
+<img width="265" height="43" alt="imagen" src="https://github.com/user-attachments/assets/8a02816e-aa62-49f6-a6a6-8a10a2ec483f" />
+
+
 
   <img width="1005" height="604" alt="imagen" src="https://github.com/user-attachments/assets/277f3741-44cd-4f30-bf89-13eed93bda7f" />
 
