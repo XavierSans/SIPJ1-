@@ -217,8 +217,46 @@ I com a comprovacions des canvis de la comanda useradd tambe a funcionat tot
 <img width="730" height="120" alt="imagen" src="https://github.com/user-attachments/assets/1f5f020a-51fe-4b05-82ce-ce7317bb51db" />
 
   - Canvis personals de adduser
+
+Un canvi que faig es el que al crear un usuari automaticament el fique als grups que es mostren a continuacio
+
+<img width="324" height="48" alt="imagen" src="https://github.com/user-attachments/assets/78d1353f-d891-4b6f-a306-44a834219323" />
+
+Altres canvis es el canviar el rang de GID i UID 
+
+<img width="243" height="198" alt="imagen" src="https://github.com/user-attachments/assets/c9ae2d1c-d1b2-4825-825f-fb755d6097e5" />
+
+Aquest canvi es més que res per als dos tant com adduser com useradd i es el fet de que per a usar ls -la u podrem fer usant ll
+
+<img width="758" height="108" alt="imagen" src="https://github.com/user-attachments/assets/849630f0-875a-4133-a61f-4f19aa8ab787" />
+
+Tambe he volgut ficar aquest altre dins del .profile que el que fa es el mostrar el temps que porta enjagat i l'altre es un missatge que he volgut ficar jo
+
+<img width="734" height="95" alt="imagen" src="https://github.com/user-attachments/assets/5362c1b5-b043-44fd-ab9c-182d06817bf9" />
+
+Ara el que queda es comprovar que funcione tot
+
+<img width="351" height="30" alt="imagen" src="https://github.com/user-attachments/assets/c5d026be-b6d3-4efa-ace4-ec03e7d61629" />
+
+Com a primeres coses que podem observar al iniciar sessio es que al moment d'entrar si que apareixen els dos missatges que he ficat al .profile
+
+<img width="717" height="691" alt="imagen" src="https://github.com/user-attachments/assets/b63dbb8d-0c75-45a8-ab71-d7d0147a3a8f" />
+
+Tambe si fem ll es com si usesem ls -la 
+
+<img width="599" height="203" alt="imagen" src="https://github.com/user-attachments/assets/67af1872-b1bc-4ad0-a8ee-7811e20e3217" />
+
     
   - Canvis personals de useradd
+
+Dins del useradd per a començar el que he fet a sigut el que es cree el repositori home automaticament i no el tingues que crear tu manualment
+
+<img width="543" height="82" alt="imagen" src="https://github.com/user-attachments/assets/2923c5fb-57c7-4455-b00f-a08112f73183" />
+
+Tambe he ficat el que com a shell use el /bin/bash
+
+<img width="702" height="132" alt="imagen" src="https://github.com/user-attachments/assets/a99e632d-7189-4841-8020-6eaccad3c223" />
+
 
   <img width="1005" height="604" alt="imagen" src="https://github.com/user-attachments/assets/277f3741-44cd-4f30-bf89-13eed93bda7f" />
 
