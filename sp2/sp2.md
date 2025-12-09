@@ -273,5 +273,75 @@ I si inciem sessio amb l'usuari podem veure el com si qeu tenim carpeta home
 
 <img width="265" height="43" alt="imagen" src="https://github.com/user-attachments/assets/8a02816e-aa62-49f6-a6a6-8a10a2ec483f" />
 
+## Gestio de permisos
+
+Preparo l'entorn per als següents pasos
+
+<img width="536" height="108" alt="imagen" src="https://github.com/user-attachments/assets/607215e3-d8a9-4e7d-aa20-6c7ff1ba846d" />
+
+Crearem un grup on li ficarem de nom parchis alli afegirem dos usuaris 
+
+<img width="546" height="231" alt="imagen" src="https://github.com/user-attachments/assets/594e3189-8d9f-429e-8b30-57b3934241b0" />
+
+Aqui podem observar la carpeta nova que hem creat que es diu compartida amb tots els seus permisos de base
+
+<img width="607" height="48" alt="imagen" src="https://github.com/user-attachments/assets/fb56a771-c258-46e7-b986-b34571943d9f" />
+
+Aqui cambiem el propietari de la carpeta al igual que el grup propietari que sera parchis 
+
+<img width="582" height="123" alt="imagen" src="https://github.com/user-attachments/assets/be4a3870-43ec-4ed2-a438-cf149906eaed" />
+
+Ara cambiem els permisos de tal forma que altres usuaris no puguin accedir
+
+<img width="553" height="77" alt="imagen" src="https://github.com/user-attachments/assets/74af09d8-04ef-45ac-9e1e-e9726e946c4e" />
+
+L'usuari roig te tots els permisos
+
+<img width="743" height="345" alt="imagen" src="https://github.com/user-attachments/assets/2f6447fc-a4d2-45a3-ae8d-74a6fd42546f" />
+
+L'usuari blau pot entrar a la carpeta pero no pot ni crear ni eliminar arxiu
+
+<img width="726" height="366" alt="imagen" src="https://github.com/user-attachments/assets/c295aa02-1fba-4393-8a9d-a5fbb10a3b0e" />
+
+I l'usuari verd no te ningun permis aixi que no podra ni veure el contingut de la carpeta
+
+<img width="734" height="342" alt="imagen" src="https://github.com/user-attachments/assets/0479175f-be43-47b9-ad4b-d4571b59f137" />
+
+Per fer un usuari especial que no estigui dins del grup ni sigui el propietari pero inclus aixi tenir permisos es fa de la següent forma on es mostra com a una exepcio amb els permisos que te
+
+<img width="729" height="241" alt="imagen" src="https://github.com/user-attachments/assets/6b4a1b6b-655e-4ea6-b8fb-5486e608383e" />
+
+I com es pot observar si que te els permisos asignats
+
+<img width="752" height="359" alt="imagen" src="https://github.com/user-attachments/assets/24e3261c-4497-4a5e-9f87-44c1b8aa10b4" />
+
+Tambe es pot fer un usuari especial per a denegar permisos com ara es el cas de que un usuari que podia accedir a la carpeta no pugui ni accedir
+
+<img width="725" height="357" alt="imagen" src="https://github.com/user-attachments/assets/f34c56bd-8641-4a9c-9efd-aaa6ec9fb323" />
+
+I funciona
+
+<img width="746" height="251" alt="imagen" src="https://github.com/user-attachments/assets/15d35b8f-38c8-4d37-812e-e57cd6c32737" />
+
+Per a eliminar totes les exepcions que hem fet ara usarem el setfacl -b 
+
+<img width="732" height="249" alt="imagen" src="https://github.com/user-attachments/assets/0fc9dee5-10c1-4571-b6bb-090e6b476a05" />
+
+Per a crear una carpeta per a tots usarem l'asignacio de permisis root:root on tambe ficarem 777 per a que puguin fer de tot a la carpeta
+
+<img width="709" height="147" alt="imagen" src="https://github.com/user-attachments/assets/b4570177-a805-4a3e-9d8b-2fca35e89e71" />
+
+Necesitem que tot i que tenen tots els permisos nomes pugin esborrar lo seu i no el dels altres i es fara de la següent forma
+
+<img width="701" height="116" alt="imagen" src="https://github.com/user-attachments/assets/d3b02bc9-b174-4683-83d8-e97ba22a512c" />
+
+On com es pot comprovar no ens deixa borrar coses no creades per natros
+
+<img width="719" height="349" alt="imagen" src="https://github.com/user-attachments/assets/d91d0966-274f-4807-ba0f-8db6868bbf8a" />
+
+
+
 ## Gestió de procesos
+
+
 
