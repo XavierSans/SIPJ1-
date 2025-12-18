@@ -113,6 +113,26 @@ I com es pot observar funciona
 
 ## Còpies de seguretat i automització de tasques
 
+1- Teoria còpies de seguretat Còpia completa: Es fa una còpia de tot el seleccionat, ens quedem fora de duptes però sont grans i lentes. Actualment les millors. Còpia diferencial: A partir de la còpia completa, es resguarda la diferencia del contingut, afegint-se a la completa. Són ràpides i petites, però depenen de la còpia completa. Còpia incremental: A partir de la còpia completa, també es resguarda la diferencia del contingut, però cada incremental es guarda a partir de l'anterior. Són més petites encara, però en cas de backup cal totes les incrementals acumulades.
+
+2- Teoria comandes backups+ cp: Comanda bàsica de copiar, utilitzada en entorns locals. No és intel·ligent. rsync: Crea sincronitzacions de carpetes, permet fer còpies en local i remot via SSH. És intel·ligent. dd: "dd" no és per a fer còpies, és per a clonar particions o discos. No és intel·ligent.
+
+3- Pràctica comandes backup cp:
+
+<img width="821" height="414" alt="imagen" src="https://github.com/user-attachments/assets/226d8764-df65-4f55-a26c-d8cf5c5b1aef" />
+
+rsync:
+
+<img width="821" height="414" alt="imagen" src="https://github.com/user-attachments/assets/76dbb61c-57be-42cc-b776-cd7bf84768db" />
+
+dd: 
+
+El comandament dd copia blocs de dades sense tenir en compte el sistema de fitxers. Per tant, el dispositiu destí ha de tenir una capacitat igual o superior a l’origen; en cas contrari, la còpia falla amb un error d’espai insuficient
+
+<img width="727" height="383" alt="imagen" src="https://github.com/user-attachments/assets/0ed5b939-ea84-4c4a-8946-ca49db06ef5c" />
+
+
+
 ## Gestió d'usuaris, grups i permisos
 
 En el fitxer passwd estan tots els usuaris del sistema
