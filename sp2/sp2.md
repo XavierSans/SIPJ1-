@@ -137,10 +137,33 @@ El comandament dd copia blocs de dades sense tenir en compte el sistema de fitxe
 
 <img width="720" height="136" alt="Captura de pantalla 2025-12-21 114404" src="https://github.com/user-attachments/assets/917bb909-92b3-46a2-ad08-c828a82e48f3" />
 
+I u tindrem al escrpitori 
+
 <img width="277" height="336" alt="image" src="https://github.com/user-attachments/assets/66ffc9b6-f602-4f63-90f6-9d02e9724fb3" />
 
 <img width="900" height="89" alt="image" src="https://github.com/user-attachments/assets/358d4903-152c-4591-a65b-5ae5d3c9c66d" />
 
+<img width="719" height="132" alt="image" src="https://github.com/user-attachments/assets/af393c13-b6f8-4277-adcf-5273b41ad505" />
+
+<img width="911" height="164" alt="image" src="https://github.com/user-attachments/assets/991f99da-104f-4fe5-b3a1-06426ead9e53" />
+
+I funciona:
+
+<img width="911" height="163" alt="image" src="https://github.com/user-attachments/assets/61633b90-1e1f-484c-b2be-68e68f86f45e" />
+
+6- Pràctica automatització 6.1- cron El cron s'utilitza normalment per automatizar tasques per a usuaris especifics en una data i hora concrets. Si en aquell moment l'ordinador està tancat, la tasca es perd.
+
+<img width="913" height="538" alt="image" src="https://github.com/user-attachments/assets/0b7ef8e0-650c-4d95-ac43-3a9aacc179ea" />
+
+Carpetes cron:
+
+<img width="621" height="278" alt="imatge_2025-12-21_121140361" src="https://github.com/user-attachments/assets/404785d8-721a-45b9-86ee-d58f05ef9c1d" />
+
+6-2- anacron Anacron és el mateix, però la tasca no es perd perqué anacron el recupera.
+
+<img width="910" height="541" alt="image" src="https://github.com/user-attachments/assets/40e858b5-fb96-42f0-8a01-de8b745da0c3" />
+
+Abans anaven per separat, però actualment treballen junts.
 
 ## Gestió d'usuaris, grups i permisos
 
