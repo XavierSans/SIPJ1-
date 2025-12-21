@@ -131,6 +131,17 @@ El comandament dd copia blocs de dades sense tenir en compte el sistema de fitxe
 
 <img width="727" height="383" alt="imagen" src="https://github.com/user-attachments/assets/0ed5b939-ea84-4c4a-8946-ca49db06ef5c" />
 
+4- Pràctica programes backup Deja-Dup 5- Teoria Automatització scripts, cron i anacron Un script és un fitxer que serveix per automatizar tasques, poden ser simples o complexes i en diversos llenguatges. 
+
+<img width="911" height="191" alt="image" src="https://github.com/user-attachments/assets/2ae3c6f2-ff86-49ed-8fad-1555e26e13ac" />
+
+<img width="720" height="136" alt="Captura de pantalla 2025-12-21 114404" src="https://github.com/user-attachments/assets/917bb909-92b3-46a2-ad08-c828a82e48f3" />
+
+<img width="246" height="25" alt="image" src="https://github.com/user-attachments/assets/de449f9b-ff5a-4799-986e-dcea02b70137" />
+
+<img width="277" height="336" alt="image" src="https://github.com/user-attachments/assets/66ffc9b6-f602-4f63-90f6-9d02e9724fb3" />
+
+<img width="900" height="89" alt="image" src="https://github.com/user-attachments/assets/358d4903-152c-4591-a65b-5ae5d3c9c66d" />
 
 
 ## Gestió d'usuaris, grups i permisos
