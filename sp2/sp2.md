@@ -137,8 +137,6 @@ El comandament dd copia blocs de dades sense tenir en compte el sistema de fitxe
 
 <img width="720" height="136" alt="Captura de pantalla 2025-12-21 114404" src="https://github.com/user-attachments/assets/917bb909-92b3-46a2-ad08-c828a82e48f3" />
 
-<img width="246" height="25" alt="image" src="https://github.com/user-attachments/assets/de449f9b-ff5a-4799-986e-dcea02b70137" />
-
 <img width="277" height="336" alt="image" src="https://github.com/user-attachments/assets/66ffc9b6-f602-4f63-90f6-9d02e9724fb3" />
 
 <img width="900" height="89" alt="image" src="https://github.com/user-attachments/assets/358d4903-152c-4591-a65b-5ae5d3c9c66d" />
