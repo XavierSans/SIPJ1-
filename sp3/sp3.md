@@ -85,3 +85,9 @@ A les dos maquines ficarem de xarxa NAT
 
 <img width="572" height="388" alt="imagen" src="https://github.com/user-attachments/assets/8c59fd74-a423-4f2e-8218-9df0fc7bd2d4" />
 
+<img width="997" height="331" alt="imagen" src="https://github.com/user-attachments/assets/5fb1b0d4-359e-4353-b5ed-111f6aa410ac" />
+
+<img width="1105" height="292" alt="imagen" src="https://github.com/user-attachments/assets/4f7e2d0f-c90a-47eb-9498-a5a32217cdd6" />
+
+<img width="845" height="106" alt="imagen" src="https://github.com/user-attachments/assets/e293ebe0-55ac-4a28-84a1-fe417ef50099" />
+
