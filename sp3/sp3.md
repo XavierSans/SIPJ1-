@@ -93,6 +93,38 @@ A les dos maquines ficarem de xarxa NAT
 
 
 
-### Servidor samba 
+### Servidor samba i NFS
 
-### Servidor NFS
+Serveixen per a compartir fitxers o recursos a mes samba et deixa compartir impresores i fer la autenticacio al LDAP. NFS ho fa a partir de IP
+
+<img width="736" height="441" alt="imagen" src="https://github.com/user-attachments/assets/a7100f8f-8633-402e-a20c-f5c875836538" />
+
+<img width="640" height="255" alt="imagen" src="https://github.com/user-attachments/assets/3eda94a4-ddac-4808-856a-4286964d6c42" />
+
+<img width="623" height="153" alt="imagen" src="https://github.com/user-attachments/assets/5ddc0a46-b39c-4811-84d4-2825b23340c7" />
+
+<img width="443" height="250" alt="imagen" src="https://github.com/user-attachments/assets/97858a33-ed50-44da-9d0b-4a7ef96806fe" />
+
+<img width="443" height="250" alt="imagen" src="https://github.com/user-attachments/assets/98aed423-e5c8-43cb-9fc2-dfa285fd4827" />
+
+<img width="296" height="207" alt="imagen" src="https://github.com/user-attachments/assets/2d54f827-13c3-4865-ae29-82917ee6cf28" />
+
+<img width="1132" height="773" alt="imagen" src="https://github.com/user-attachments/assets/893953d3-c721-4ec5-9f7c-3aa598062c4f" />
+
+<img width="708" height="421" alt="imagen" src="https://github.com/user-attachments/assets/80ad4f60-2737-4e9a-a3db-f8dd3f64a9dc" />
+
+<img width="708" height="421" alt="imagen" src="https://github.com/user-attachments/assets/fcdd42f5-8707-4ce0-b36e-e3d6ac573a31" />
+
+<img width="708" height="421" alt="imagen" src="https://github.com/user-attachments/assets/28467a4e-cde1-48ee-b33e-f66f2b3fc878" />
+
+<img width="708" height="421" alt="imagen" src="https://github.com/user-attachments/assets/b9c52c68-de5f-4ca7-8f14-477b8190dd20" />
+
+<img width="660" height="244" alt="imagen" src="https://github.com/user-attachments/assets/e06b17e1-5cc9-4229-9bcc-406f0d0dfd54" />
+
+<img width="676" height="511" alt="imagen" src="https://github.com/user-attachments/assets/411bdc6d-c0c8-4049-8915-7a17c7f6873a" />
+
+<img width="676" height="511" alt="imagen" src="https://github.com/user-attachments/assets/d306f8b6-778a-4d2e-ac83-6c63f5a85b15" />
+
+<img width="676" height="511" alt="imagen" src="https://github.com/user-attachments/assets/507f2a82-62a0-4cb1-8700-3322e3434040" />
+
+<img width="676" height="511" alt="imagen" src="https://github.com/user-attachments/assets/361bec43-c630-4fee-8bf7-b284d9db4bfe" />
