@@ -91,3 +91,8 @@ A les dos maquines ficarem de xarxa NAT
 
 <img width="845" height="106" alt="imagen" src="https://github.com/user-attachments/assets/e293ebe0-55ac-4a28-84a1-fe417ef50099" />
 
+
+
+### Servidor samba 
+
+### Servidor NFS
