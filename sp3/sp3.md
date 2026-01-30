@@ -153,9 +153,29 @@ No es pot ja que el posixgroup depen de ell
 
 <img width="393" height="114" alt="imagen" src="https://github.com/user-attachments/assets/db1f532b-1bc0-48a2-92a9-69ff92f32390" />
 
-<img width="462" height="134" alt="imagen" src="https://github.com/user-attachments/assets/4a0d4e52-c207-4fa8-ad2c-171a133135ff" />
+<img width="860" height="88" alt="imagen" src="https://github.com/user-attachments/assets/2afb7afd-a7f6-4ec4-8e43-3bc4ab2c3508" />
 
 <img width="785" height="353" alt="imagen" src="https://github.com/user-attachments/assets/723247e0-e7b7-40ed-84a5-0343bb693009" />
+
+<img width="925" height="300" alt="imagen" src="https://github.com/user-attachments/assets/5f34d219-d28c-4feb-8115-8e2ea100b50a" />
+
+12.
+
+<img width="851" height="476" alt="imagen" src="https://github.com/user-attachments/assets/bd895b78-d4ba-4ffb-b32d-99cc041fdaa0" />
+
+13.
+
+<img width="850" height="365" alt="imagen" src="https://github.com/user-attachments/assets/bfd9226e-e1c2-4dd9-9140-0f396ac1de4d" />
+
+14.
+
+No existeix cap usuari que començe per R i al mateix temps tingui el uidnumber=1004
+
+<img width="1014" height="265" alt="imagen" src="https://github.com/user-attachments/assets/dd62a374-28d7-4573-8cc1-21a2a7831138" />
+
+15.
+
+<img width="1340" height="375" alt="imagen" src="https://github.com/user-attachments/assets/72b0bc64-bc01-48cf-8b71-255cd255f1d1" />
 
 
 ### Servidor samba i NFS
