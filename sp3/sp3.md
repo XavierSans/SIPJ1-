@@ -89,13 +89,19 @@ A les dos maquines ficarem de xarxa NAT
 
 <img width="997" height="331" alt="imagen" src="https://github.com/user-attachments/assets/5fb1b0d4-359e-4353-b5ed-111f6aa410ac" />
 
+1.
+
 <img width="1105" height="292" alt="imagen" src="https://github.com/user-attachments/assets/4f7e2d0f-c90a-47eb-9498-a5a32217cdd6" />
 
 <img width="845" height="106" alt="imagen" src="https://github.com/user-attachments/assets/e293ebe0-55ac-4a28-84a1-fe417ef50099" />
 
+2.
+
 <img width="480" height="134" alt="imagen" src="https://github.com/user-attachments/assets/a6996fd1-f28c-41fe-8ac7-de90b7de877b" />
 
 <img width="807" height="69" alt="imagen" src="https://github.com/user-attachments/assets/a34cee34-2fb3-42be-aac8-09005306dc90" />
+
+3.
 
 <img width="401" height="135" alt="imagen" src="https://github.com/user-attachments/assets/03176689-9f3c-4d80-b738-d77945c63cd6" />
 
@@ -103,7 +109,53 @@ A les dos maquines ficarem de xarxa NAT
 
 <img width="477" height="403" alt="imagen" src="https://github.com/user-attachments/assets/819a2ce7-ba19-45db-93a4-5cc55dfea81a" />
 
+4.
+
 <img width="878" height="602" alt="imagen" src="https://github.com/user-attachments/assets/258b06e6-1588-44a8-b00d-eb94113df409" />
+
+5.
+
+<img width="528" height="112" alt="imagen" src="https://github.com/user-attachments/assets/9c3a7873-adb4-4935-905f-c4536bf23707" />
+
+
+<img width="867" height="77" alt="imagen" src="https://github.com/user-attachments/assets/d572e203-bfc8-4d5b-8c06-4ccf361af3af" />
+
+6.
+
+<img width="448" height="179" alt="imagen" src="https://github.com/user-attachments/assets/cf340d5d-ea8e-4c49-b653-6af215edef04" />
+
+
+<img width="917" height="71" alt="imagen" src="https://github.com/user-attachments/assets/e433faac-5cc8-4f1e-a8db-c529d04e1516" />
+
+7.
+
+<img width="942" height="521" alt="imagen" src="https://github.com/user-attachments/assets/06a24dfd-05c5-417b-99ca-a2caff522684" />
+
+8.
+
+No es pot ja que el posixgroup depen de ell 
+
+<img width="893" height="103" alt="imagen" src="https://github.com/user-attachments/assets/d940070f-d2f3-47ea-b518-fff3ace2cad7" />
+
+9.
+
+<img width="1115" height="60" alt="imagen" src="https://github.com/user-attachments/assets/dfc62105-2624-43c3-bb84-44f63f319d32" />
+
+10.
+
+<img width="394" height="134" alt="imagen" src="https://github.com/user-attachments/assets/3cc2312f-5a87-4c4b-aa01-482e8cdea3e4" />
+
+<img width="822" height="61" alt="imagen" src="https://github.com/user-attachments/assets/dd3e9387-17db-4be6-b80f-7153d8942ec0" />
+
+<img width="462" height="395" alt="imagen" src="https://github.com/user-attachments/assets/39a60400-b9b7-4387-be67-a1ab99b4be6c" />
+
+11.
+
+<img width="393" height="114" alt="imagen" src="https://github.com/user-attachments/assets/db1f532b-1bc0-48a2-92a9-69ff92f32390" />
+
+<img width="462" height="134" alt="imagen" src="https://github.com/user-attachments/assets/4a0d4e52-c207-4fa8-ad2c-171a133135ff" />
+
+<img width="785" height="353" alt="imagen" src="https://github.com/user-attachments/assets/723247e0-e7b7-40ed-84a5-0343bb693009" />
 
 
 ### Servidor samba i NFS
