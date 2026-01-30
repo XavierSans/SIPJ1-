@@ -85,12 +85,19 @@ A les dos maquines ficarem de xarxa NAT
 
 <img width="572" height="388" alt="imagen" src="https://github.com/user-attachments/assets/8c59fd74-a423-4f2e-8218-9df0fc7bd2d4" />
 
+### Fitxers ldif i comandes ldap
+
 <img width="997" height="331" alt="imagen" src="https://github.com/user-attachments/assets/5fb1b0d4-359e-4353-b5ed-111f6aa410ac" />
 
 <img width="1105" height="292" alt="imagen" src="https://github.com/user-attachments/assets/4f7e2d0f-c90a-47eb-9498-a5a32217cdd6" />
 
 <img width="845" height="106" alt="imagen" src="https://github.com/user-attachments/assets/e293ebe0-55ac-4a28-84a1-fe417ef50099" />
 
+<img width="480" height="134" alt="imagen" src="https://github.com/user-attachments/assets/a6996fd1-f28c-41fe-8ac7-de90b7de877b" />
+
+<img width="807" height="69" alt="imagen" src="https://github.com/user-attachments/assets/a34cee34-2fb3-42be-aac8-09005306dc90" />
+
+<img width="421" height="133" alt="imagen" src="https://github.com/user-attachments/assets/99d2dc62-914a-4807-b819-6523f43ce267" />
 
 
 ### Servidor samba i NFS
