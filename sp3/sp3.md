@@ -97,7 +97,13 @@ A les dos maquines ficarem de xarxa NAT
 
 <img width="807" height="69" alt="imagen" src="https://github.com/user-attachments/assets/a34cee34-2fb3-42be-aac8-09005306dc90" />
 
-<img width="421" height="133" alt="imagen" src="https://github.com/user-attachments/assets/99d2dc62-914a-4807-b819-6523f43ce267" />
+<img width="401" height="135" alt="imagen" src="https://github.com/user-attachments/assets/03176689-9f3c-4d80-b738-d77945c63cd6" />
+
+<img width="827" height="75" alt="imagen" src="https://github.com/user-attachments/assets/1b2cbf1f-db3a-4fc7-90ce-efb3cda00f01" />
+
+<img width="477" height="403" alt="imagen" src="https://github.com/user-attachments/assets/819a2ce7-ba19-45db-93a4-5cc55dfea81a" />
+
+<img width="878" height="602" alt="imagen" src="https://github.com/user-attachments/assets/258b06e6-1588-44a8-b00d-eb94113df409" />
 
 
 ### Servidor samba i NFS
