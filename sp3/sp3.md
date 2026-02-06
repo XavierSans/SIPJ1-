@@ -180,6 +180,8 @@ No existeix cap usuari que començe per R i al mateix temps tingui el uidnumber=
 
 ### Servidor samba i NFS
 
+## Samba
+
 Serveixen per a compartir fitxers o recursos a mes samba et deixa compartir impresores i fer la autenticacio al LDAP. NFS ho fa a partir de IP
 
 <img width="736" height="441" alt="imagen" src="https://github.com/user-attachments/assets/a7100f8f-8633-402e-a20c-f5c875836538" />
@@ -213,3 +215,42 @@ Serveixen per a compartir fitxers o recursos a mes samba et deixa compartir impr
 <img width="676" height="511" alt="imagen" src="https://github.com/user-attachments/assets/507f2a82-62a0-4cb1-8700-3322e3434040" />
 
 <img width="676" height="511" alt="imagen" src="https://github.com/user-attachments/assets/361bec43-c630-4fee-8bf7-b284d9db4bfe" />
+
+## NFS
+
+NFS per compartir carpetes dins d'una xarxa interna i la idntificacio se fa nivell de maquina per host
+
+<img width="880" height="261" alt="imagen" src="https://github.com/user-attachments/assets/df068ca3-dc92-4c3a-8814-017c320c57d9" />
+
+<img width="862" height="213" alt="imagen" src="https://github.com/user-attachments/assets/c9aa8ce6-1b75-46af-a8d7-7bf8f840a1fb" />
+
+<img width="638" height="135" alt="imagen" src="https://github.com/user-attachments/assets/4d4ce87d-74e9-44b0-b949-da2e2791c49f" />
+
+<img width="1034" height="240" alt="imagen" src="https://github.com/user-attachments/assets/ba68498a-456f-47ef-8402-697ab70aab77" />
+
+<img width="707" height="341" alt="imagen" src="https://github.com/user-attachments/assets/9f49edd6-5eef-4c45-a7ee-429bb3d7792c" />
+
+<img width="1817" height="277" alt="imagen" src="https://github.com/user-attachments/assets/2a4a929b-51d0-4694-927e-ff5af3bfaf90" />
+
+<img width="340" height="70" alt="imagen" src="https://github.com/user-attachments/assets/8bcc2ccd-eb8e-47be-862a-d1e0935c00f3" />
+
+<img width="1057" height="281" alt="imagen" src="https://github.com/user-attachments/assets/a0b8de80-0af7-459d-9600-b7b364e738cf" />
+
+<img width="345" height="79" alt="imagen" src="https://github.com/user-attachments/assets/5ffb5735-0282-4c47-b9a2-70dcba96729f" />
+
+<img width="363" height="69" alt="imagen" src="https://github.com/user-attachments/assets/d9186174-9e04-41e7-8730-960639aa6773" />
+
+<img width="1134" height="271" alt="imagen" src="https://github.com/user-attachments/assets/b1598838-38b2-49ef-b501-7bf7ff52505a" />
+
+<img width="1134" height="271" alt="imagen" src="https://github.com/user-attachments/assets/8dfc3e44-cf30-4b28-b66d-08518c7ecbd5" />
+
+<img width="908" height="296" alt="imagen" src="https://github.com/user-attachments/assets/36863dd5-fc30-4b89-ad76-e960966b1cc4" />
+
+<img width="365" height="409" alt="imagen" src="https://github.com/user-attachments/assets/243599d3-cd7e-409c-8b2e-fbf018f4da23" />
+
+<img width="916" height="70" alt="imagen" src="https://github.com/user-attachments/assets/d7b7d3fe-dc15-458c-a86d-2b036845bc79" />
+
+<img width="502" height="136" alt="imagen" src="https://github.com/user-attachments/assets/b29ab6da-3c3a-4d28-8f11-4e82ac33998c" />
+
+<img width="461" height="92" alt="imagen" src="https://github.com/user-attachments/assets/ef60a252-e5ba-4197-8e63-005e8b498304" />
+
