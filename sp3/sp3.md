@@ -9,11 +9,19 @@ A les dos maquines ficarem de xarxa NAT
 
 <img width="921" height="589" alt="imagen" src="https://github.com/user-attachments/assets/3d0795c3-0c79-4d5d-bf80-8e77766b4481" />
 
+Li canviarem a les maquines de IP per DHCP a IP fixa manualment
+
 <img width="921" height="589" alt="imagen" src="https://github.com/user-attachments/assets/3a00524f-a11e-46dd-b00b-15129db985c7" />
+
+I probarem de fer ping a 1.1.1.1 on funciona
 
 <img width="598" height="315" alt="imagen" src="https://github.com/user-attachments/assets/f2ad1701-ac7b-4f5f-9c2c-e1db80bfca74" />
 
+Canviarem el hostname a un que natro vulguem
+
 <img width="1026" height="93" alt="imagen" src="https://github.com/user-attachments/assets/535b01c8-391f-432e-87d5-49777d050ffd" />
+
+
 
 <img width="1026" height="93" alt="imagen" src="https://github.com/user-attachments/assets/f54ee647-3fd9-444e-869a-c7b2f109658f" />
 
