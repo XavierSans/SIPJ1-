@@ -416,34 +416,39 @@ I al servidor tambe apareix
 Crearem una nova carpeta que li fiquem perfils i copiarem i pegarem la mateixa linia que tenim al fstab pero canviant els noms de les carpetes per /perfils
 
 <img width="1134" height="271" alt="imagen" src="https://github.com/user-attachments/assets/b1598838-38b2-49ef-b501-7bf7ff52505a" />
+<img width="1134" height="271" alt="imagen" src="https://github.com/user-attachments/assets/8dfc3e44-cf30-4b28-b66d-08518c7ecbd5" />
 
 I al exports farem el mateix
 
-<img width="1134" height="271" alt="imagen" src="https://github.com/user-attachments/assets/8dfc3e44-cf30-4b28-b66d-08518c7ecbd5" />
+<img width="908" height="296" alt="imagen" src="https://github.com/user-attachments/assets/36863dd5-fc30-4b89-ad76-e960966b1cc4" />
 
 Afegirem un usuari ldap pero que es creara en comptes de a la /home es creara a /perfils
 
-<img width="908" height="296" alt="imagen" src="https://github.com/user-attachments/assets/36863dd5-fc30-4b89-ad76-e960966b1cc4" />
+<img width="365" height="409" alt="imagen" src="https://github.com/user-attachments/assets/243599d3-cd7e-409c-8b2e-fbf018f4da23" />
 
 L'afegim 
 
-<img width="365" height="409" alt="imagen" src="https://github.com/user-attachments/assets/243599d3-cd7e-409c-8b2e-fbf018f4da23" />
+<img width="916" height="70" alt="imagen" src="https://github.com/user-attachments/assets/d7b7d3fe-dc15-458c-a86d-2b036845bc79" />
 
 I podem iniciar sessio graficament 
 
-<img width="916" height="70" alt="imagen" src="https://github.com/user-attachments/assets/d7b7d3fe-dc15-458c-a86d-2b036845bc79" />
+<img width="461" height="92" alt="imagen" src="https://github.com/user-attachments/assets/ef60a252-e5ba-4197-8e63-005e8b498304" />
 
 I si anem al servidor i fem un ls /perfils/alu3 ens mostra la tipica informacio que apareix en la home
 
 <img width="502" height="136" alt="imagen" src="https://github.com/user-attachments/assets/b29ab6da-3c3a-4d28-8f11-4e82ac33998c" />
 
+## NFS client windows
 
+Tindrem que anar dins del windows al apartat de caracteristiques de windows i buscar l'opcio que es mostra i habilitar l'opcio cliente para NFS
 
 <img width="577" height="503" alt="imagen" src="https://github.com/user-attachments/assets/aa3719f6-b5be-4a4c-9d3d-67daf8640ea0" />
 
+Ara ens conectarem a la carpeta per fer aixo tindrem que ficar el nom de la carpeta i la Ip del servidor es fer el mateix que en el ubuntu feem amb el samba
+
 <img width="627" height="466" alt="imagen" src="https://github.com/user-attachments/assets/437f0239-df97-4b10-9b93-c48a5019e013" />
 
-<img width="461" height="92" alt="imagen" src="https://github.com/user-attachments/assets/ef60a252-e5ba-4197-8e63-005e8b498304" />
+I com podem observar em deixa conectarme
 
 <img width="689" height="205" alt="imagen" src="https://github.com/user-attachments/assets/6b7fa1d4-8869-45d0-b12e-853820934e81" />
 
