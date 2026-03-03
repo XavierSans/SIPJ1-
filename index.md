@@ -19,3 +19,5 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 4.0 ES](LICENSE.md).
 
 ### [Sprint 2: Gestió de la Informació del Sistema i Administració](sp2/sp2.md)  
 
+### [Sprint 3: Gestió de la Informació del Sistema i Administració](sp3/sp3.md)  
+
