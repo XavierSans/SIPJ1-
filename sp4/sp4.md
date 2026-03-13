@@ -16,3 +16,5 @@ cron      err,error
 
 Dins del monitoreg del sistema podem veure tots els procesos que hi han en aquest moment poden matar els procesos que ocupin molt o dornar una preferencia major a altres
 
+
+
