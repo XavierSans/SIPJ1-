@@ -18,3 +18,17 @@ Dins del monitoreg del sistema podem veure tots els procesos que hi han en aques
 
 
 
+## Syslog
+
+Aqui es guarden diversos logs (registres) com autentificacio d'usuaris del sistema, kernell, el gran journal, etc. Coses que instal·lem, els seus logs es desen aqui
+Diversos archis compartits aqui s'anmomenen "notacio de logs", ja que son tants que per espai i organitzacio es desen aixi
+
+## lograte
+
+Aqui es pot configurar la rotacio dels logs, cada quan volem registrar x event. En el seu directori hi ha arxius de configuracio per cada serveix
+
+## rsyslog
+
+50.default.conf
+
+
