@@ -58,3 +58,21 @@ I ara no s'ha desat el log amb .alert, sols el .crit:
 
 <img width="1488" height="149" alt="Imatge enganxada (7)" src="https://github.com/user-attachments/assets/8f4675e5-389d-40c2-a531-0f3e2fb0ecf9" />
 
+## SSH
+
+<img width="562" height="45" alt="image" src="https://github.com/user-attachments/assets/1328e027-fc2b-48f7-9635-42284450e9b3" />
+
+<img width="448" height="105" alt="image" src="https://github.com/user-attachments/assets/db6aa603-7e05-402a-95bd-7b6550be4fee" />
+
+<img width="597" height="194" alt="image" src="https://github.com/user-attachments/assets/42ee6f4e-1dc5-4c9b-8503-b573ea6cc3b5" />
+
+<img width="1538" height="385" alt="image" src="https://github.com/user-attachments/assets/6ecd415d-eedd-47d8-901f-ba49225775a1" />
+
+<img width="1540" height="89" alt="image" src="https://github.com/user-attachments/assets/5bb51d44-3e54-4893-bc54-9f3c01253753" />
+
+## VNC
+
+<img width="596" height="149" alt="image" src="https://github.com/user-attachments/assets/7832cfb8-8009-4e98-ae5e-a8e76e582bcc" />
+
+<img width="609" height="427" alt="image" src="https://github.com/user-attachments/assets/c1792e7c-714c-4b00-9517-9ace932407ed" />
+
