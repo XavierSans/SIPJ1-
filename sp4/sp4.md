@@ -94,6 +94,13 @@ Ara anirem al client on instalarem el rsyslog
 
 <img width="703" height="180" alt="imagen" src="https://github.com/user-attachments/assets/d415877b-c0f1-4606-8317-362d3618b096" />
 
+Aqui podem veure com si que s'ha fet la conexio i ha enviat els logs desde el client al servidor sent que ha creat una carpeta per aquella maquina virtual
+
+<img width="456" height="46" alt="imagen" src="https://github.com/user-attachments/assets/c51f9f1b-ade9-4b61-ba87-a89f678c5ec9" />
+
+I si fem un cat d'aquella carpeta i del arxiu de l'usuari podem veure els missatge que ha enviat
+
+<img width="724" height="64" alt="imagen" src="https://github.com/user-attachments/assets/6ad334a4-57ff-4d0b-a4c6-1042b13c2ddc" />
 
 ## SSH
 
