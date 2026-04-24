@@ -92,7 +92,17 @@ Ara anirem al client on instalarem el rsyslog
 
 <img width="730" height="401" alt="imagen" src="https://github.com/user-attachments/assets/7ffd6ad3-f092-44de-b2e3-452bcecf1342" />
 
+Dins de l'arxiu de configuracio afegirem una linia amb les dades corresponents del servidor amb la ip i el port en el meu cas tinc que ficar @@ ja que uso tcp si uses udp ficaria nomes una @
+
 <img width="703" height="180" alt="imagen" src="https://github.com/user-attachments/assets/d415877b-c0f1-4606-8317-362d3618b096" />
+
+Una vegada editem l'arxiu reiniciem el servei
+
+<img width="622" height="45" alt="imagen" src="https://github.com/user-attachments/assets/388afc13-0b9b-44e0-82f0-e6b5295a9c2c" />
+
+I si no hem tingut cap error el següent i ultim pas al client sera enviar el missatge usant la comanda logger
+
+<img width="622" height="45" alt="imagen" src="https://github.com/user-attachments/assets/07f998f1-497f-4de2-8848-ac11280b32d5" />
 
 Aqui podem veure com si que s'ha fet la conexio i ha enviat els logs desde el client al servidor sent que ha creat una carpeta per aquella maquina virtual
 
