@@ -58,6 +58,43 @@ I ara no s'ha desat el log amb .alert, sols el .crit:
 
 <img width="1488" height="149" alt="Imatge enganxada (7)" src="https://github.com/user-attachments/assets/8f4675e5-389d-40c2-a531-0f3e2fb0ecf9" />
 
+## Enviament de paquets amb dos maquines ubuntu
+
+Primer que tot comprobem que hi hagui conexio amb les dos maquines
+
+<img width="603" height="185" alt="imagen" src="https://github.com/user-attachments/assets/8cb1a3e5-0cd3-4396-aeb1-379b07453cfa" />
+
+Despres de comprobar si tenim conexio anirem al arxiu de configuracio /etc/rsyslog.conf i al final de l'arxiu ficarem el següent
+
+<img width="311" height="73" alt="imagen" src="https://github.com/user-attachments/assets/1b5b1539-518e-45f2-a833-cd1d216c7cfa" />
+
+El següent pas sera el crear la carpeta on aniran els logs 
+
+<img width="552" height="72" alt="imagen" src="https://github.com/user-attachments/assets/67b730dc-b49c-430d-ab70-710956f3ac65" />
+
+I tambe configurarem els permisos necesaris per a la carpeta ja que si no despres donaran errors de creacio
+
+<img width="630" height="55" alt="imagen" src="https://github.com/user-attachments/assets/b085bcbf-19da-4fb8-b331-8ff3692c2c3c" />
+
+I com a ultima configuracio al servidor, configurarem el lloc on tenen que anar els logs que sera a la carpeta que hem creat 
+
+<img width="609" height="126" alt="imagen" src="https://github.com/user-attachments/assets/2cc8dc59-9dca-448b-8ff3-b00d1395e6a9" />
+
+I reinicem el servei
+
+<img width="732" height="313" alt="imagen" src="https://github.com/user-attachments/assets/a66813bb-2976-409c-96da-9ca7e03b5474" />
+
+I habilitarem el port del tcp al servidor
+
+<img width="461" height="61" alt="imagen" src="https://github.com/user-attachments/assets/616a5f7b-fbb7-4cbf-a8b1-9685f6d0b9ac" />
+
+Ara anirem al client on instalarem el rsyslog
+
+<img width="730" height="401" alt="imagen" src="https://github.com/user-attachments/assets/7ffd6ad3-f092-44de-b2e3-452bcecf1342" />
+
+<img width="703" height="180" alt="imagen" src="https://github.com/user-attachments/assets/d415877b-c0f1-4606-8317-362d3618b096" />
+
+
 ## SSH
 
 <img width="562" height="45" alt="image" src="https://github.com/user-attachments/assets/1328e027-fc2b-48f7-9635-42284450e9b3" />
