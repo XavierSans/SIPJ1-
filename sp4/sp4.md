@@ -72,7 +72,21 @@ I ara no s'ha desat el log amb .alert, sols el .crit:
 
 ## VNC
 
-<img width="596" height="149" alt="image" src="https://github.com/user-attachments/assets/7832cfb8-8009-4e98-ae5e-a8e76e582bcc" />
+<img width="646" height="167" alt="imagen" src="https://github.com/user-attachments/assets/9a2a8fed-087c-4cc1-b6c6-6ef8328c50b6" />
 
-<img width="609" height="427" alt="image" src="https://github.com/user-attachments/assets/c1792e7c-714c-4b00-9517-9ace932407ed" />
+<img width="510" height="101" alt="imagen" src="https://github.com/user-attachments/assets/165fa688-aead-4375-b794-4cce367569ae" />
+
+<img width="454" height="61" alt="imagen" src="https://github.com/user-attachments/assets/e948c624-21a7-4df0-948c-976b0f401067" />
+
+<img width="651" height="219" alt="imagen" src="https://github.com/user-attachments/assets/b335a258-ce5a-4b4e-b1b8-114c97843d42" />
+
+<img width="413" height="36" alt="imagen" src="https://github.com/user-attachments/assets/0f510401-f509-41ee-915c-231142b1befe" />
+
+<img width="601" height="196" alt="imagen" src="https://github.com/user-attachments/assets/a161c5be-7486-4e15-873d-3e4dc26f3b3a" />
+
+<img width="411" height="75" alt="imagen" src="https://github.com/user-attachments/assets/d0af8c06-3042-44db-98eb-c0387402b24c" />
+
+<img width="601" height="196" alt="imagen" src="https://github.com/user-attachments/assets/7e9a299a-d8a0-4184-a296-ee5fc3acb2aa" />
+
+<img width="1630" height="924" alt="imagen" src="https://github.com/user-attachments/assets/2cc40ebc-d052-4f7e-817e-dafe7a540f00" />
 
