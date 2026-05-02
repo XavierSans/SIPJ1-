@@ -146,26 +146,25 @@ I li assignarem una contrasenya
 
 Per a fer possible la conexio vnc tindrem que anar al arxiu que es mostra en pantalla i descomentar la linia WaylandEnable 
 
-<img width="454" height="61" alt="imagen" src="https://github.com/user-attachments/assets/e948c624-21a7-4df0-948c-976b0f401067" />
-
 <img width="651" height="219" alt="image" src="https://github.com/user-attachments/assets/3cd678c8-a133-46d0-b7ca-50dfeb362275" />
 
-
-I una vegada fet aixo si anem al server on inicarem el servei x11vnc
+On ara reinicarem per a que s'apliquin els cambis
 
 <img width="413" height="36" alt="imagen" src="https://github.com/user-attachments/assets/0f510401-f509-41ee-915c-231142b1befe" />
 
-On ens donara un port que en el meu cas es el 5901
+I una vegada fet aixo si anem al server on inicarem el servei x11vnc
 
 <img width="601" height="196" alt="imagen" src="https://github.com/user-attachments/assets/a161c5be-7486-4e15-873d-3e4dc26f3b3a" />
 
-Ara anirem al client i ficarem la Ip del servior amb el port que ens a donat
+On ens donara un port que en el meu cas es el 5901
 
 <img width="411" height="75" alt="imagen" src="https://github.com/user-attachments/assets/d0af8c06-3042-44db-98eb-c0387402b24c" />
 
-I ja tenim realitzada la conexio
+Ara anirem al client i ficarem la Ip del servior amb el port que ens a donat
 
 <img width="601" height="196" alt="imagen" src="https://github.com/user-attachments/assets/7e9a299a-d8a0-4184-a296-ee5fc3acb2aa" />
+
+I ja tenim realitzada la conexio
 
 <img width="1630" height="924" alt="imagen" src="https://github.com/user-attachments/assets/2cc40ebc-d052-4f7e-817e-dafe7a540f00" />
 
