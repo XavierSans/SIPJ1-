@@ -21,6 +21,6 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 4.0 ES](LICENSE.md).
 
 ### [Sprint 3: Gestió de dominis i Accesos](sp3/sp3.md)  
 
-### [Sprint 3: Gestió de dominis i Accesos](sp4/sp4.md)  
+### [Sprint 4: Monitorització, connexió remota i llicenciament](sp4/sp4.md)  
 
-### [Sprint 3: Gestió de dominis i Accesos](sp5/sp5.md)  
+### [Sprint 5: Avaluació, Instal·lació i Configuració de Xarxes i Sistemes Operatiust](sp5/sp5.md)  
