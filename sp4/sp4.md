@@ -148,6 +148,9 @@ Per a fer possible la conexio vnc tindrem que anar al arxiu que es mostra en pan
 
 <img width="454" height="61" alt="imagen" src="https://github.com/user-attachments/assets/e948c624-21a7-4df0-948c-976b0f401067" />
 
+<img width="651" height="219" alt="image" src="https://github.com/user-attachments/assets/3cd678c8-a133-46d0-b7ca-50dfeb362275" />
+
+
 I una vegada fet aixo si anem al server on inicarem el servei x11vnc
 
 <img width="413" height="36" alt="imagen" src="https://github.com/user-attachments/assets/0f510401-f509-41ee-915c-231142b1befe" />
