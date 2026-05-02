@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Sprint 1: Avaluació, Instal·lació i Configuració de Xarxes i Sistemes Operatiust"
+---
+
 <img width="876" height="672" alt="imagen" src="https://github.com/user-attachments/assets/3760df76-f0d9-419f-89a7-8eefc0e85193" />
 
 <img width="457" height="519" alt="imagen" src="https://github.com/user-attachments/assets/021bc87c-a81d-4ba9-85dd-6d5ad76fb552" />
