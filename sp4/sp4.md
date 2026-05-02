@@ -114,31 +114,53 @@ I si fem un cat d'aquella carpeta i del arxiu de l'usuari podem veure els missat
 
 ## SSH
 
+El primer que farem sera anar al que sera el servidor i instalar les eines necesaries
+
 <img width="562" height="45" alt="image" src="https://github.com/user-attachments/assets/1328e027-fc2b-48f7-9635-42284450e9b3" />
+
+Una vegada ja tenim les eines necesaries habilitarem al tallafocs el port 22 que es el que usa el ssh
 
 <img width="448" height="105" alt="image" src="https://github.com/user-attachments/assets/db6aa603-7e05-402a-95bd-7b6550be4fee" />
 
+Comprovem que tinguesim conexio
+
 <img width="597" height="194" alt="image" src="https://github.com/user-attachments/assets/42ee6f4e-1dc5-4c9b-8503-b573ea6cc3b5" />
 
+I ara anem al client i farem la següent comanda per a realitzar la conexio ssh nomMaquina@IP. On mirarem si estem dins fent un ls i mirant si son els mateixos arxiu que en l'altra maquina
+
 <img width="1538" height="385" alt="image" src="https://github.com/user-attachments/assets/6ecd415d-eedd-47d8-901f-ba49225775a1" />
+
+I si que ho son
 
 <img width="1540" height="89" alt="image" src="https://github.com/user-attachments/assets/5bb51d44-3e54-4893-bc54-9f3c01253753" />
 
 ## VNC
 
+El primer que farem sera al servidor instalar l'eina x11vnc 
+
 <img width="646" height="167" alt="imagen" src="https://github.com/user-attachments/assets/9a2a8fed-087c-4cc1-b6c6-6ef8328c50b6" />
+
+I li assignarem una contrasenya
 
 <img width="510" height="101" alt="imagen" src="https://github.com/user-attachments/assets/165fa688-aead-4375-b794-4cce367569ae" />
 
+Per a fer possible la conexio vnc tindrem que anar al arxiu que es mostra en pantalla i descomentar la linia WaylandEnable 
+
 <img width="454" height="61" alt="imagen" src="https://github.com/user-attachments/assets/e948c624-21a7-4df0-948c-976b0f401067" />
 
-<img width="651" height="219" alt="imagen" src="https://github.com/user-attachments/assets/b335a258-ce5a-4b4e-b1b8-114c97843d42" />
+I una vegada fet aixo si anem al server on inicarem el servei x11vnc
 
 <img width="413" height="36" alt="imagen" src="https://github.com/user-attachments/assets/0f510401-f509-41ee-915c-231142b1befe" />
 
+On ens donara un port que en el meu cas es el 5901
+
 <img width="601" height="196" alt="imagen" src="https://github.com/user-attachments/assets/a161c5be-7486-4e15-873d-3e4dc26f3b3a" />
 
+Ara anirem al client i ficarem la Ip del servior amb el port que ens a donat
+
 <img width="411" height="75" alt="imagen" src="https://github.com/user-attachments/assets/d0af8c06-3042-44db-98eb-c0387402b24c" />
+
+I ja tenim realitzada la conexio
 
 <img width="601" height="196" alt="imagen" src="https://github.com/user-attachments/assets/7e9a299a-d8a0-4184-a296-ee5fc3acb2aa" />
 
