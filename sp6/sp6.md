@@ -116,6 +116,8 @@ Tot i això, cal anar amb compte i no finalitzar processos crítics del sistema,
 
 <img width="625" height="139" alt="imagen" src="https://github.com/user-attachments/assets/462c35b5-1c95-4b7e-aad3-d966b2b6dccb" />
 
+<img width="725" height="326" alt="imagen" src="https://github.com/user-attachments/assets/d78f8e89-bc2d-4d76-86b7-867dcb25e57e" />
+
 En alumne podem eliminar crear i editar
 
 <img width="1126" height="560" alt="imagen" src="https://github.com/user-attachments/assets/944f0dce-edcc-49c7-8998-1a722ad1837e" />
