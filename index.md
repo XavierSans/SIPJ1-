@@ -24,3 +24,5 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 4.0 ES](LICENSE.md).
 ### [Sprint 4: Monitorització, connexió remota i llicenciament](sp4/sp4.md)  
 
 ### [Sprint 5: Avaluació, Instal·lació i Configuració de Xarxes i Sistemes Operatiust](sp5/sp5.md)  
+
+### [Sprint 6: Gestió de la Informació del Sistema i Administració](sp6/sp6.md)  
