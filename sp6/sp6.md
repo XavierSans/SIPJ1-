@@ -112,6 +112,20 @@ Tot i això, cal anar amb compte i no finalitzar processos crítics del sistema,
 
 <img width="493" height="477" alt="imagen" src="https://github.com/user-attachments/assets/c98b4fee-47e9-4557-b115-0dbc524935fb" />
 
-<img width="582" height="229" alt="imagen" src="https://github.com/user-attachments/assets/af007610-8c85-4d66-952d-0883b08034cb" />
+<img width="443" height="472" alt="imagen" src="https://github.com/user-attachments/assets/3cb0233b-8883-4b61-a27e-1d50fb8b4fc2" />
 
 <img width="625" height="139" alt="imagen" src="https://github.com/user-attachments/assets/462c35b5-1c95-4b7e-aad3-d966b2b6dccb" />
+
+<img width="582" height="229" alt="imagen" src="https://github.com/user-attachments/assets/af007610-8c85-4d66-952d-0883b08034cb" />
+
+<img width="558" height="264" alt="imagen" src="https://github.com/user-attachments/assets/99819353-e095-4a4f-bc15-29c9f3aa6145" />
+
+En alumne podem eliminar crear i editar
+
+<img width="1126" height="560" alt="imagen" src="https://github.com/user-attachments/assets/944f0dce-edcc-49c7-8998-1a722ad1837e" />
+
+En xavier no podrem eliminar crear ni editar pero si que podrem llegir 
+
+<img width="1355" height="654" alt="imagen" src="https://github.com/user-attachments/assets/b51794c8-6448-4533-a26e-c6928b50d202" />
+
+<img width="1355" height="654" alt="imagen" src="https://github.com/user-attachments/assets/dbe05234-49a1-4bbd-a7d4-f8e6af217de2" />
