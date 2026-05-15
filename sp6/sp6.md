@@ -30,9 +30,15 @@ Particio 2
 
 <img width="503" height="401" alt="Captura de pantalla de 2026-05-08 11-54-18" src="https://github.com/user-attachments/assets/b799b1ef-5052-4a7a-b74a-a5f37c375a5f" />
 
+Resultat
+
 <img width="503" height="401" alt="Captura de pantalla de 2026-05-08 11-54-40" src="https://github.com/user-attachments/assets/37f1a0fa-4647-470d-bf32-f6ef8017ffa3" />
 
+Comprovcio
+
 <img width="503" height="401" alt="Captura de pantalla de 2026-05-08 11-54-50" src="https://github.com/user-attachments/assets/e0a517ee-c83d-466a-8114-8863a7152f07" />
+
+## Fase 3 – Script de còpia i automatització
 
 <img width="1353" height="136" alt="Captura de pantalla de 2026-05-08 11-55-08" src="https://github.com/user-attachments/assets/e22bb1ab-3460-47cf-ad52-8cdbc5e4f123" />
 
@@ -55,6 +61,8 @@ Particio 2
 <img width="734" height="267" alt="Captura de pantalla de 2026-05-08 12-10-03" src="https://github.com/user-attachments/assets/f33289c8-0c51-40e4-9c47-8975045152f5" />
 
 <img width="406" height="212" alt="Captura de pantalla de 2026-05-08 12-10-56" src="https://github.com/user-attachments/assets/db381f3a-4a31-4c47-bf91-79526236819f" />
+
+## Fase 4
 
 <img width="407" height="460" alt="Captura de pantalla de 2026-05-08 12-11-56" src="https://github.com/user-attachments/assets/b985b226-058d-40e1-83a8-43b5fdaf14c8" />
 
