@@ -46,4 +46,72 @@
 
 <img width="407" height="460" alt="Captura de pantalla de 2026-05-08 12-11-56" src="https://github.com/user-attachments/assets/b985b226-058d-40e1-83a8-43b5fdaf14c8" />
 
-<img width="892" height="311" alt="Captura de pantalla de 2026-05-08 12-35-10" src="https://github.com/user-attachments/assets/ad50126e-809f-42a9-b79b-e25492edc36c" />
+<img width="1121" height="235" alt="imagen" src="https://github.com/user-attachments/assets/9badf628-6cc8-4963-bcf0-f45b6ca4bc64" />
+
+<img width="1367" height="593" alt="imagen" src="https://github.com/user-attachments/assets/48612578-a7a8-476a-80cb-c6c0c2fd7be9" />
+
+| Nom del procés             | Memòria usada | Justificació per eliminar-lo/tancar-lo                                                                                                                                                                 |
+| -------------------------- | ------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `OneDrive.exe`             |     38.112 KB | No és essencial per al funcionament de Windows. Només serveix per sincronitzar fitxers amb OneDrive. Es pot tancar si no s’està utilitzant.                                                            |
+| `MicrosoftEdge.exe`        |     61.804 KB | És el navegador Microsoft Edge. Si l’usuari no l’està fent servir, es pot tancar per alliberar memòria.                                                                                                |
+| `MicrosoftEdgeCP.exe`      |     22.252 KB | Procés secundari de Microsoft Edge. No és necessari si Edge no està obert.                                                                                                                             |
+| `MicrosoftEdgeSH.exe`      |     11.064 KB | Procés auxiliar de Microsoft Edge. Es pot tancar juntament amb Edge si no s’utilitza.                                                                                                                  |
+| `browser_broker.exe`       |      8.512 KB | Procés relacionat amb Microsoft Edge. No és essencial si no s’està navegant.                                                                                                                           |
+| `ApplicationFrameHost.exe` |     26.048 KB | Gestiona finestres d’aplicacions modernes de Windows. Es pot tancar si no hi ha cap aplicació d’aquest tipus en ús.                                                                                    |
+| `SearchUI.exe`             |     73.864 KB | Relacionat amb la cerca de Windows. No és imprescindible per treballar, però si es tanca pot afectar temporalment la cerca del menú inici.                                                             |
+| `VBoxTray.exe`             |     14.476 KB | Procés de VirtualBox Guest Additions. No és essencial per Windows, però és útil dins d’una màquina virtual. Es podria tancar si no calen funcions com pantalla compartida o integració amb VirtualBox. |
+
+<img width="517" height="62" alt="imagen" src="https://github.com/user-attachments/assets/aa70a971-7b5b-491c-b67f-0fb56136700f" />
+
+Antes:
+
+<img width="695" height="374" alt="imagen" src="https://github.com/user-attachments/assets/fcf50040-0538-477b-8958-5e8e43919489" />
+
+Despues:
+
+<img width="772" height="405" alt="imagen" src="https://github.com/user-attachments/assets/5b712713-aadd-45d6-af12-f3d04aba0aee" />
+
+
+<img width="610" height="185" alt="imagen" src="https://github.com/user-attachments/assets/587c4f98-0548-4e78-b532-0d3ffcc9dd2b" />
+
+<img width="418" height="108" alt="imagen" src="https://github.com/user-attachments/assets/8f9f8149-0829-429a-979b-e30108fbdc55" />
+
+Què passa si mates un procés crític com explorer.exe
+
+El procés explorer.exe és essencial per a la interfície gràfica de Windows, ja que controla elements com l’escriptori, la barra de tasques, el menú d’inici i l’explorador de fitxers.
+
+Si es finalitza aquest procés, Windows no s’apaga ni deixa de funcionar completament, però la interfície gràfica queda parcialment inutilitzada. Normalment desapareixen la barra de tasques, les icones de l’escriptori i les finestres de l’explorador. Això pot donar la sensació que el sistema s’ha penjat, però realment només s’ha aturat el procés que gestiona l’entorn visual.
+
+En una prova controlada, es pot recuperar obrint l’Administrador de tasques amb:
+
+ - Ctrl + Shift + Esc
+
+Després cal anar a:
+
+ - Fitxer > Executar una tasca nova
+
+i escriure:
+
+explorer.exe
+
+Això torna a carregar l’escriptori i la barra de tasques.
+
+Com pot millorar el rendiment en màquines virtuals o equips amb pocs recursos
+
+La gestió de processos pot ajudar a millorar el rendiment perquè permet detectar i tancar aplicacions que consumeixen memòria RAM, CPU o disc sense ser necessàries en aquell moment. En una màquina virtual, on els recursos acostumen a ser limitats, això és especialment important.
+
+Per exemple, tancar processos com navegadors oberts, OneDrive, aplicacions en segon pla o programes que no s’estan utilitzant pot alliberar memòria i fer que el sistema funcioni amb més fluïdesa. També pot reduir el consum de CPU i evitar que la màquina virtual vagi lenta o es bloquegi.
+
+Tot i això, cal anar amb compte i no finalitzar processos crítics del sistema, com System, winlogon.exe, services.exe, lsass.exe o svchost.exe, perquè poden provocar errors, tancaments de sessió o inestabilitat del sistema. La millor pràctica és tancar només processos d’usuari o aplicacions conegudes que no siguin necessàries.
+
+## Fase 6 – Gestió de permisos (ACLs)
+
+<img width="312" height="41" alt="imagen" src="https://github.com/user-attachments/assets/06a2ed17-14af-47d3-adcc-1e1f7450f30e" />
+
+<img width="429" height="387" alt="imagen" src="https://github.com/user-attachments/assets/f2b662fb-b647-4f29-90fa-490aaa4a4fbe" />
+
+<img width="493" height="477" alt="imagen" src="https://github.com/user-attachments/assets/c98b4fee-47e9-4557-b115-0dbc524935fb" />
+
+<img width="582" height="229" alt="imagen" src="https://github.com/user-attachments/assets/af007610-8c85-4d66-952d-0883b08034cb" />
+
+<img width="625" height="139" alt="imagen" src="https://github.com/user-attachments/assets/462c35b5-1c95-4b7e-aad3-d966b2b6dccb" />
