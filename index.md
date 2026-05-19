@@ -27,4 +27,4 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 4.0 ES](LICENSE.md).
 
 ### [Sprint 6: Gestió de la Informació del Sistema i Administració](sp6/sp6.md)  
 
-### [Sprint 7: Gestió de la Informació del Sistema i Administració](sp7/sp7.md)  
+### [Sprint 7: Gestió de la Informació del Sistema i Administració](sp7/sp7..md)  
